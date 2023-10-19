@@ -1,0 +1,16 @@
+        if AreaofIntrest=="2":
+           field=request.form['sslc2']
+        if AreaofIntrest=="3":
+           field=request.form['sslc3']
+        if AreaofIntrest=="4":
+           field=request.form['sslc4']
+        if AreaofIntrest=="5":
+           field=request.form['sslc5']
+        if AreaofIntrest=="6":
+           field=request.form['sslc6']
+        if AreaofIntrest=="11":
+           field=request.form['puc1']
+        if AreaofIntrest=="12":
+           field=request.form['puc2']
+        if AreaofIntrest=="13":
+           field=request.form['puc3']

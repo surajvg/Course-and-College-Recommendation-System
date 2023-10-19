@@ -1,0 +1,1671 @@
+Course,Field,studylevel,AreaofInterest,C_education,Grade,Skills,Age
+"Physics,Chemistry,Maths,Biology","Physics,Chemistry,Maths,Biology",Science,1,1,50,1,16
+"Physics,Chemistry,Maths,Computer Science","Physics,Chemistry,Maths,Computer Science",Science,1,1,50,1,16
+"Physics,Chemistry,Maths,Electronics","Physics,Chemistry,Maths,Electronics",Science,1,1,50,1,16
+"Physics,Chemistry,Maths,Statistics","Physics,Chemistry,Maths,Statistics",Science,1,1,50,1,16
+"Physics,Chemistry,Maths,Home Science","Physics,Chemistry,Maths,Home Science",Science,1,1,50,1,16
+"Physics,Chemistry,Maths,Geology","Physics,Chemistry,Maths,Geology",Science,1,1,50,1,16
+"Chemistry,Biology,Psychology,HomeScience","Chemistry,Biology,Psychology,HomeScience",Science,1,1,50,1,16
+"History,Econimics,B.Studies,Accountancy","History,Econimics,B.Studies,Accountancy",Commerce,2,1,50,1,16
+"Econiomics,Geography,B.Studies,Accounts","Econiomics,Geography,B.Studies,Accounts",Commerce,2,1,50,1,16
+"Economics,B.Studies,Accountancy,Comp.Sc","Economics,B.Studies,Accountancy,Comp.Sc",Commerce,2,1,50,1,16
+"Economics,Statistics,B.studies,Accounts","Economics,Statistics,B.studies,Accounts",Commerce,2,1,50,1,16
+"B.Studies,Acc,Basic Maths,Statistics","B.Studies,Acc,Basic Maths,Statistics",Commerce,2,1,50,1,16
+"B.Studies,Acc,Comp.Sc,Statistics","B.Studies,Acc,Comp.Sc,Statistics",Commerce,2,1,50,1,16
+"B.Studies,Acc,Pol.Sc,Economics","B.Studies,Acc,Pol.Sc,Economics",Commerce,2,1,50,1,16
+"B.Studies,Acc,Economics,Basic Maths","B.Studies,Acc,Economics,Basic Maths",Commerce,2,1,50,1,16
+"History,Economics,Sociology,Pol.Sc","History,Economics,Sociology,Pol.Sc",Arts,3,1,50,1,16
+"History,Economics,Geography,Pol.Sc","History,Economics,Geography,Pol.Sc",Arts,3,1,50,1,16
+"History,Economics,Logic,Pol.Sc","History,Economics,Logic,Pol.Sc",Arts,3,1,50,1,16
+"History,Economics,Pol.Sc,Opt.Kannada","History,Economics,Pol.Sc,Opt.Kannada",Arts,3,1,50,1,16
+"History,Economics,Geography,Opt.Kannada","History,Economics,Geography,Opt.Kannada",Arts,3,1,50,1,16
+"History,Economics,Sociology,Opt.Kannada","History,Economics,Sociology,Opt.Kannada",Arts,3,1,50,1,16
+"History,Economics,Pol.Sc,Psychology","History,Economics,Pol.Sc,Psychology",Arts,3,1,50,1,16
+"History,Education,Economics,Opt.Kannada","History,Education,Economics,Opt.Kannada",Arts,3,1,50,1,16
+"History.Education,Pol.Sc,Opt.Kannada","History.Education,Pol.Sc,Opt.Kannada",Arts,3,1,50,1,16
+"History,Education,Geography,Opt.Kannada","History,Education,Geography,Opt.Kannada",Arts,3,1,50,1,16
+"History,Education,Sociology,Opt.Kannada","History,Education,Sociology,Opt.Kannada",Arts,3,1,50,1,16
+"History,Economics,Sociology,Psychology","History,Economics,Sociology,Psychology",Arts,3,1,50,1,16
+"History,Sociology,Education,Economics","History,Sociology,Education,Economics",Arts,3,1,50,1,16
+"Histroy,sociology,Education,Pol.Sc","Histroy,sociology,Education,Pol.Sc",Arts,3,1,50,1,16
+"History,Sociology,Education,Geography","History,Sociology,Education,Geography",Arts,3,1,50,1,16
+"History,Economics,Logic,Sociology","History,Economics,Logic,Sociology",Arts,3,1,50,1,16
+"History,Economics,Op.Kan, Kar.Music","History,Economics,Op.Kan, Kar.Music",Arts,3,1,50,1,16
+"History,Economics,Op.Kan, Hin.Music","History,Economics,Op.Kan, Hin.Music",Arts,3,1,50,1,16
+"History,Sociology,Op.Kan, Kan.Music","History,Sociology,Op.Kan, Kan.Music",Arts,3,1,50,1,16
+"History,Sociology,Psychology,Opt.Kannada","History,Sociology,Psychology,Opt.Kannada",Arts,3,1,50,1,16
+"History,Pol.Sc,Education,Economics","History,Pol.Sc,Education,Economics",Arts,3,1,50,1,16
+"History,Pol.Sc,Education,Geography","History,Pol.Sc,Education,Geography",Arts,3,1,50,1,16
+"Economics,Pol.Sc,Education,Sociology","Economics,Pol.Sc,Education,Sociology",Arts,3,1,50,1,16
+"Economics,Pol.Sc,Education,Geography","Economics,Pol.Sc,Education,Geography",Arts,3,1,50,1,16
+"Economics,Sociology,Pol.Sc,Psychology","Economics,Sociology,Pol.Sc,Psychology",Arts,3,1,50,1,16
+"Economics,Logic,Sociology,Psychology","Economics,Logic,Sociology,Psychology",Arts,3,1,50,1,16
+"History,Economics,Geography,Sociology","History,Economics,Geography,Sociology",Arts,3,1,50,1,16
+"History,Economics,Sociology,Kar.Music","History,Economics,Sociology,Kar.Music",Arts,3,1,50,1,16
+"History,Economics,Sociology,Hind.Music","History,Economics,Sociology,Hind.Music",Arts,3,1,50,1,16
+"History,Economics,Pol.Sc,Kar.Music","History,Economics,Pol.Sc,Kar.Music",Arts,3,1,50,1,16
+"History,Economics,Pol.Sc,Hind.Music","History,Economics,Pol.Sc,Hind.Music",Arts,3,1,50,1,16
+"History,Economics,Pol.Sc,Basic Maths","History,Economics,Pol.Sc,Basic Maths",Arts,3,1,50,1,16
+"History,Econimics,Sociology,Basic Maths","History,Econimics,Sociology,Basic Maths",Arts,3,1,50,1,16
+"History,Economics,Geography Basic Maths","History,Economics,Geography Basic Maths",Arts,3,1,50,1,16
+"Economics,Sociology,Psychology,Home Sc","Economics,Sociology,Psychology,Home Sc",Arts,3,1,50,1,16
+Diploma in Engineering,Engineering,Engineering,4,1,50,1,16
+Diploma in Hotel Management,Hotel Management,Hotel Management,4,1,50,1,16
+Diploma in Journalism,Journalism,Journalism,4,1,50,1,16
+Diploma in Education,Education,Education,4,1,50,1,16
+Diploma in Photography,Photography,Photography,4,1,50,1,16
+Diploma in Psychology,Psychology,Psychology,4,1,50,1,16
+Diploma in Elementary Education,Elementary Education,Elementary Education,4,1,50,1,16
+Diploma in Digital Marketing,Digital Marketing,Digital Marketing,4,1,50,1,16
+Diploma in Fine Arts,Fine Arts,Fine Arts,4,1,50,1,16
+Diploma in English,English,English,4,1,50,1,16
+Diploma in Fashion Designing,Fashion Designing,Fashion Designing,4,1,50,1,16
+Diploma in Graphic Designing,Graphic Designing,Graphic Designing,4,1,50,1,16
+Diploma in Web Development,Web Development,Web Development,4,1,50,1,16
+Diploma in Game Designing,Game Designing,Game Designing,4,1,50,1,16
+Diploma in Bakery & Confectionery,Bakery & Confectionery,Bakery & Confectionery,4,1,50,1,16
+Diploma in Hotel Reception & Book Keeping,Hotel Reception & Book Keeping,Hotel Reception & Book Keeping,4,1,50,1,16
+Diploma in Food Technology,Food Technology,Food Technology,4,1,50,1,16
+Diploma in Information Technology,Information Technology,Information Technology,4,1,50,1,16
+Diploma in Makeup and Beauty,Makeup and Beauty,Makeup and Beauty,4,1,50,1,16
+Diploma in Event Management,Event Management,Event Management,4,1,50,1,16
+Diploma in Business Management,Business Management,Business Management,4,1,50,1,16
+Diploma in Marine Engineering,Marine Engineering,Marine Engineering,4,1,50,1,16
+Diploma in Animation,Animation,Animation,4,1,50,1,16
+Diploma in Textile Designing,Textile Designing,Textile Designing,4,1,50,1,16
+Diploma in Leather Designing,Leather Designing,Leather Designing,4,1,50,1,16
+Diploma in Textile Engineering,Textile Engineering,Textile Engineering,4,1,50,1,16
+Diploma in Travel and Tourism,Travel and Tourism,Travel and Tourism,4,1,50,1,16
+Diploma in Fine Arts,Fine Arts,Fine Arts,5,1,50,1,16
+Diploma in Commercial Art,Commercial Art,Commercial Art,5,1,50,1,16
+Diploma in Graphic Designing,Graphic Designing,Graphic Designing,5,1,50,1,16
+Certificate Course in Spoken English,Spoken English,Spoken English,5,1,50,1,16
+Certificate Course in Functional English,Functional English,Functional English,5,1,50,1,16
+Diploma in Social Media Management,Social Media Management,Social Media Management,5,1,50,1,16
+Diploma in Hotel Management,Hotel Management,Hotel Management,5,1,50,1,16
+Certificate in Hindi,Hindi,Hindi,5,1,50,1,16
+Certificate in Animation,Animation,Animation,6,1,50,1,16
+Certificate Course in Tally,Tally,Tally,6,1,50,1,16
+Diploma in Banking,Banking,Banking,6,1,50,1,16
+Diploma in Risk and Insurance,Risk and Insurance,Risk and Insurance,6,1,50,1,16
+Diploma in Computer Application,Computer Application,Computer Application,6,1,50,1,16
+Advanced Diploma in Financial Accounting,Financial Accounting,Financial Accounting,6,1,50,1,16
+Diploma in e-Accounting Taxation,e-Accounting Taxation,e-Accounting Taxation,6,1,50,1,16
+Diploma in Information Technology,Information Technology,Information Technology,7,1,50,1,16
+Craftsmanship Course in Food Production,Food Production,Food Production,7,1,50,1,16
+Certificate in Diesel Mechanics,Diesel Mechanics,Diesel Mechanics,7,1,50,1,16
+Diploma in Dental Mechanics,Dental Mechanics,Dental Mechanics,7,1,50,1,16
+Diploma in Dental Hygienist,Dental Hygienist,Dental Hygienist,7,1,50,1,16
+Diploma in Engineering,Engineering,Engineering,7,1,50,1,16
+Diploma in Computer Science and Engineering,Computer Science and Engineering,Computer Science and Engineering,8,1,50,1,16
+Diploma in Civil Engineering,Civil Engineering,Civil Engineering,8,1,50,1,16
+Diploma in Automobile Engineering,Automobile Engineering,Automobile Engineering,8,1,50,1,16
+Diploma in Electronics and Communication,Electronics and Communication,Electronics and Communication,8,1,50,1,16
+Diploma in Electrical Engineering,Electrical Engineering,Electrical Engineering,8,1,50,1,16
+Diploma in Interior Decoration,Interior Decoration,Interior Decoration,8,1,50,1,16
+Diploma in Fashion Engineering,Fashion Engineering,Fashion Engineering,8,1,50,1,16
+Diploma in Ceramic Engineering,Ceramic Engineering,Ceramic Engineering,8,1,50,1,16
+Diploma in Art and Craft,Art and Craft,Art and Craft,8,1,50,1,16
+Diploma in Mechanical Engineering,Mechanical Engineering,Mechanical Engineering,8,1,50,1,16
+Diploma in Chemical Engineering,Chemical Engineering,Chemical Engineering,8,1,50,1,16
+Diploma in Instrumentation and Control Engineering,Instrumentation and Control Engineering,Instrumentation and Control Engineering,8,1,50,1,16
+Diploma in IT Engineering,IT Engineering,IT Engineering,8,1,50,1,16
+Diploma in Electronics and Telecommunication Engineering,Electronics and Telecommunication Engineering,Electronics and Telecommunication Engineering,8,1,50,1,16
+Diploma in Aeronautical Engineering,Aeronautical Engineering,Aeronautical Engineering,8,1,50,1,16
+Diploma in Petroleum Engineering,Petroleum Engineering,Petroleum Engineering,8,1,50,1,16
+Diploma in Aerospace Engineering,Aerospace Engineering,Aerospace Engineering,8,1,50,1,16
+Diploma in Mining Engineering,Mining Engineering,Mining Engineering,8,1,50,1,16
+Diploma in Automobile Engineering,Automobile Engineering,Automobile Engineering,8,1,50,1,16
+Diploma in Genetic Engineering,Genetic Engineering,Genetic Engineering,8,1,50,1,16
+Diploma in Biotechnology Engineering,Biotechnology Engineering,Biotechnology Engineering,8,1,50,1,16
+Diploma in Plastics Engineering,Plastics Engineering,Plastics Engineering,8,1,50,1,16
+Diploma in Agricultural Engineering,Agricultural Engineering,Agricultural Engineering,8,1,50,1,16
+Diploma in Food Processing and Technology,Food Processing and Technology,Food Processing and Technology,8,1,50,1,16
+Diploma in Dairy Technology and Engineering,Dairy Technology and Engineering,Dairy Technology and Engineering,8,1,50,1,16
+Diploma in Power Engineering,Power Engineering,Power Engineering,8,1,50,1,16
+Diploma in Infrastructure Engineering,Infrastructure Engineering,Infrastructure Engineering,8,1,50,1,16
+Diploma in Production Engineering,Production Engineering,Production Engineering,8,1,50,1,16
+Diploma in Metallurgy Engineering,Metallurgy Engineering,Metallurgy Engineering,8,1,50,1,16
+Diploma in Motorsport Engineering,Motorsport Engineering,Motorsport Engineering,8,1,50,1,16
+Diploma in Environmental Engineering,Environmental Engineering,Environmental Engineering,8,1,50,1,16
+Diploma in Textile Engineering,Textile Engineering,Textile Engineering,8,1,50,1,16
+Agricultural Information Technology,Information Technology,Information Technology,8,1,50,1,16
+Diploma in hearing language and speech,hearing language and speech,hearing language and speech,9,1,50,1,16
+Diploma in Operation Theatre Technology,Operation Theatre Technology,Operation Theatre Technology,9,1,50,1,16
+Diploma in Medical Laboratory Technology,Medical Laboratory Technology,Medical Laboratory Technology,9,1,50,1,16
+Diploma in X-Ray Technology,X-Ray Technology,X-Ray Technology,9,1,50,1,16
+Diploma in Ophthalmic technology,Ophthalmic technology,Ophthalmic technology,9,1,50,1,16
+Diploma is ECG technology,ECG technology,ECG technology,9,1,50,1,16
+Diploma in physiotherapy,physiotherapy,physiotherapy,9,1,50,1,16
+Diploma in Radiography and Medical Imaging,Radiography and Medical Imaging,Radiography and Medical Imaging,9,1,50,1,16
+Diploma in anaesthesia technology,anaesthesia technology,anaesthesia technology,9,1,50,1,16
+Diploma in Dialysis Technology,Dialysis Technology,Dialysis Technology,9,1,50,1,16
+Diploma in Nursing Care Assistance,Nursing Care Assistance,Nursing Care Assistance,9,1,50,1,16
+Diploma in Medical Record Technology,Medical Record Technology,Medical Record Technology,9,1,50,1,16
+Diploma in Sanitary Inspection,Sanitary Inspection,Sanitary Inspection,9,1,50,1,16
+Diploma in Audiometry,Audiometry,Audiometry,9,1,50,1,16
+Diploma in Audiology and Speech Therapy,Audiology and Speech Therapy,Audiology and Speech Therapy,9,1,50,1,16
+Diploma in Pathology Lab Technician ,Pathology Lab Technician ,Pathology Lab Technician ,9,1,50,1,16
+Diploma in Dental Mechanics,Dental Mechanics,Dental Mechanics,9,1,50,1,16
+Diploma in Radiology,Radiology,Radiology,9,1,50,1,16
+Diploma in Pharmacy,Pharmacy,Pharmacy,9,1,50,1,16
+X-ray Radiology Assistant,X-ray,X-ray,10,1,50,1,16
+Medical Laboratory Assistant,Medical Laboratory,Medical Laboratory,10,1,50,1,16
+ECG Assistant,ECG,ECG,10,1,50,1,16
+Dental Assistant,Dental,Dental,10,1,50,1,16
+CT Scan Technician,CT Scan,CT Scan,10,1,50,1,16
+MRI Technician,MRI,MRI,10,1,50,1,16
+Nursing Care Assistant,Nursing,Nursing,10,1,50,1,16
+Operation Theatre Assistant,Operation Theatre,Operation Theatre,10,1,50,1,16
+Diploma in Computer Application,Computer Application,Computer Application,11,1,50,1,16
+Certificate in Social Media Management,Social Media Management,Social Media Management,11,1,50,1,16
+Diploma in Hardware Maintenance,Hardware Maintenance,Hardware Maintenance,11,1,50,1,16
+Certificate Course in Search Engine Marketing,Search Engine Marketing,Search Engine Marketing,11,1,50,1,16
+Computer Technician Diploma,Computer Technician,Computer Technician,11,1,50,1,16
+Certificate in Search Engine Optimisation,Search Engine Optimisation,Search Engine Optimisation,11,1,50,1,16
+Certificate in Graphic/Web Designing,Graphic/Web Designing,Graphic/Web Designing,11,1,50,1,16
+Certificate Course in Programming Language,Programming Language,Programming Language,11,1,50,1,16
+Tool & Die Maker Engineering,Die Maker Engineering,Die Maker Engineering,12,1,50,1,16
+Draughtsman (Mechanical) Engineering,Draughtsman (Mechanical),Draughtsman (Mechanical),12,1,50,1,16
+Diesel Mechanic Engineering,Diesel Mechanic,Diesel Mechanic,12,1,50,1,16
+Draughtsman (Civil) Engineering,Draughtsman (Civil),Draughtsman (Civil),12,1,50,1,16
+Pump Operator,Pump Operator,Pump Operator,12,1,50,1,16
+Fitter Engineering,Fitter ,Fitter ,12,1,50,1,16
+Motor Driving-cum-Mechanic Engineering,Motor Driving-cum-Mechanic ,Motor Driving-cum-Mechanic ,12,1,50,1,16
+Turner Engineering,Turner ,Turner ,12,1,50,1,16
+Dress Making,Dress Making,Dress Making,12,1,50,1,16
+Manufacture Foot Wear,Manufacture Foot Wear,Manufacture Foot Wear,12,1,50,1,16
+Information Technology & E.S.M. Engineering,Information Technology & E.S.M. Engineering,Information Technology & E.S.M. Engineering,12,1,50,1,16
+Secretarial Practice,Secretarial Practice,Secretarial Practice,12,1,50,1,16
+Machinist Engineering,Machinist ,Machinist ,12,1,50,1,16
+Hair & Skin Care,Hair & Skin Care,Hair & Skin Care,12,1,50,1,16
+Refrigeration Engineering,Refrigeration ,Refrigeration ,12,1,50,1,16
+Fruit & Vegetable Processing,Fruit & Vegetable Processing,Fruit & Vegetable Processing,12,1,50,1,16
+Mech. Instrument Engineering,Mech. Instrument Engineering,Mech. Instrument Engineering,12,1,50,1,16
+Bleaching & Dyeing Calico Print,Bleaching & Dyeing Calico Print,Bleaching & Dyeing Calico Print,12,1,50,1,16
+Electrician Engineering,Electrician ,Electrician ,12,1,50,1,16
+Letter Press Machine Mender,Letter Press Machine Mender,Letter Press Machine Mender,12,1,50,1,16
+Commercial Art,Commercial Art,Commercial Art,12,1,50,1,16
+Leather Goods Maker,Leather Goods Maker,Leather Goods Maker,12,1,50,1,16
+Mechanic Motor Vehicle Engineering,Mechanic Motor Vehicle,Mechanic Motor Vehicle,12,1,50,1,16
+Hand Compositor,Hand Compositor,Hand Compositor,12,1,50,1,16
+Mechanic Radio & T.V. Engineering,Mechanic Radio & T.V. ,Mechanic Radio & T.V. ,12,1,50,1,16
+Mechanic Electronics Engineering,Mechanic Electronics ,Mechanic Electronics ,12,1,50,1,16
+Surveyor Engineering,Surveyor ,Surveyor ,12,1,50,1,16
+Foundry Man Engineering,Foundry Man ,Foundry Man ,12,1,50,1,16
+Sheet Metal Worker Engineering,Sheet Metal Worker ,Sheet Metal Worker ,12,1,50,1,16
+Weaving of Fancy Fabric,Weaving of Fancy Fabric,Weaving of Fancy Fabric,12,1,50,1,16
+Wireman Engineering,Wireman ,Wireman ,12,1,50,1,16
+Cutting & Sewing,Cutting & Sewing,Cutting & Sewing,12,1,50,1,16
+Pattern Maker Engineering,Pattern Maker ,Pattern Maker ,12,1,50,1,16
+Plumber Engineering,Plumber ,Plumber ,12,1,50,1,16
+Welder (Gas & Electric) Engineering,Welder (Gas & Electric),Welder (Gas & Electric),12,1,50,1,16
+Book Binder,Book Binder,Book Binder,12,1,50,1,16
+Carpenter Engineering,Carpenter ,Carpenter ,12,1,50,1,16
+Embroidery & Needle Worker,Embroidery & Needle Worker,Embroidery & Needle Worker,12,1,50,1,16
+Mechanic Tractor,Mechanic Tractor,Mechanic Tractor,12,1,50,1,16
+Ecommerce,Ecommerce,Ecommerce,13,1,50,1,16
+Digital Marketing,Digital Marketing,Digital Marketing,13,1,50,1,16
+Occupational Therapy,Occupational Therapy,Occupational Therapy,13,1,50,1,16
+Agriculture,Agriculture,Agriculture,13,1,50,1,16
+Journalism,Journalism,Journalism,13,1,50,1,16
+Certification in Animation,Animation,Animation,13,1,50,1,16
+Certification Course in Fuctional/Spoken English,Fuctional/Spoken English,Fuctional/Spoken English,13,1,50,1,16
+Certification in Mobile Repairing Courses,Mobile Repairing Courses,Mobile Repairing Courses,13,1,50,1,16
+Diploma in commercial practise,commercial practise,commercial practise,13,1,50,1,16
+Diploma in cosmetology,cosmetology,cosmetology,13,1,50,1,16
+Diploma in Stenography,Stenography,Stenography,13,1,50,1,16
+Diploma in Leather Technology,Leather Technology,Leather Technology,13,1,50,1,16
+Diploma in Mechanical Engineering,Mechanical Engineering,Mechanical Engineering,13,1,50,1,16
+Diploma in 3D Animation,3D Animation,3D Animation,13,1,50,1,16
+Bachelor of Technology (B.Tech) mechanical engineering,mechanical Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) compiuter Science & engineering,Computer Science & Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Civil engineering,civil Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electronics &communication engineering,Electronics &communication engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) mechanical engineering,mechanical engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) civil engineering,civil engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electrical&electronics engineering,Electrical&electronics engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) informmation technology,informmation technology,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Computer Science &Engineering,Computer Science &Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Electronics &Communication Engineering,Electronics &Communication Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electrical engineering,Electrical engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Electrical &Electronics Engineering,Electrical &Electronics Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Electrical engineering, Electrical engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Information Technology,Information Technology,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Electronics and Telecom Engineering ,Electronics and Telecom Engineering ,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Computer Engineering,Computer Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Biotechnology,Biotechnology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Chemical Engineering,Chemical Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Artificall Intelligence & Machine Learing,Artificall Intelligence & Machine Learing,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Automobile Engineering,Automobile Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electronics and Telecomunication Engineering,Electronics and Telecomunication Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) computer engineering,computer engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Data Science, Data Science,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Agricultural Engineering,Agricultural Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Automobile Engineering, Automobile Engineering,Engineering,1,2,50,1,18
+Bachelor of Techonology (B.Tech) Food Technology,Food Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech)  Cyber Security,Cyber Security,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Information science & Engineering,Information science & Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) BioMedical Engineering,BioMedical Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electronics And Instrumentation Engineering, Electronics And Instrumentation Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Mechatronics ,Mechatronics ,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Aeronautical Engineering,Aeronautical Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Mining Engineering,Mining Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Chemical Engineering,Chemical Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Aeronautical Engineering,Aeronautical Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Electronics & Instrumentation Engineering,Electronics & Instrumentation Engineering,Engineering,1,2,50,1,18
+ Bachelor of Technology (B.Tech) Computer Science,Computer Science,Engineering,1,2,50,1,18
+ Bachelor of Technology (B.Tech) BioMedical Engineering,BioMedical Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Mechatronics Engineering,Mechatronics Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) petroleum Engineering,petroleum Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Aerospace Engineering,Aerospace Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electronics Engineering,Electronics Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Electronics Engineering,Electronics Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Production Engineering,Production Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Biotechnology,Biotechnology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Dairy Technology,Dairy Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Instrumentation & Control Engineering,Instrumentation & Control Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Marine Engineering,Marine Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Metallurgical & Materials Engineering,Metallurgical & Materials Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Textile technology,Textile technology,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Production Engineering,Production Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Applied Electronics & Instrumentation,Applied Electronics & Instrumentation,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Big Data Analytics,Big Data Analytics,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electrical Communication Engineering,Electrical Communication Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Computer Science ,Computer Science,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Instrumentation Engineering,Instrumentation Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech)  Environmental Engineering,Environmental Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Bioinformatics,Bioinformatics,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) metallurgical Engineering,metallurgical Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Instrumentation & Control Engineering,Instrumentation & Control Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Instrumentation Engineering,Instrumentation Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Mining Engineering,Mining Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Robotics,Robotics,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) textile engineering,textile engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) NanoTechnology,NanoTechnology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Software Engineering,Software Engineering,Engineering,1,2,50,1,18
+ Bachelor of Technology (B.Tech) Safety and Fire Engineering,Safety and Fire Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.E) Marine Engineering,Marine Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Industrial & Production Engineering,Industrial & Production Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Petrochemical Engineering,Petrochemical Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Information And Communication Technology,Information And Communication Technology,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Telecommunication Engineering,Telecommunication Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Food technology,Food technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Informtion Science & Engineering,Informtion Science & Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Fashion technology,Fashion technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Cloud Computing & Virtualization Technology,Cloud Computing & Virtualization Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Construction Engineering & Management,Construction Engineering & Management,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electrical & Computer Engineering,Electrical & Computer Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Engineering Physics,Engineering Physics,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Manufacturing Engineering,Manufacturing Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Industrial  Engineering,Industrial Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Leather Technology,Leather Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Mathematics and Computing,Mathematics and Computing,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Structural Engineering,Structural Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Pharmaceutical Technology,Pharmaceutical Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Architecture Engineering,Architecture Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Food Process Engineering,Food Process Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Printing engineering,Printing engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Ceramic Engineering,Ceramic Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) energy Engineering,Ceramic Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Textile  Chemistry,Textile Chemistry,Engineering,1,2,50,1,18
+ Bachelor of Technology (B.Tech) Plastic & Polymer Engineering,Plastic & Polymer Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Petroleum Refinning & Petrochemicals Engineering,Petroleum Refinning & Petrochemicals Engineering,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) Mechanical & Automation Engineering,Mechanical & Automation Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Genetic Engineering,Genetic Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Industrial engineering & Management,Industrial engineering & Management,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Tool engineering,Tool engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electronic Instrumentation & Control,Electronic Instrumentation & Control,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Polymer engineering, Polymer engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Information Security,Information Security,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Power Engineering,Power Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Industrial Biotechnology,Industrial Biotechnology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Avionics Engineering,Avionics Engineering,Engineering,1,2,50,1,18
+ Bachelor of Technology (B.Tech) Food Engineering,Food Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Automotive Design Engineering,Automotive Design Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Ceramics & Cement Technology,Ceramics & Cement Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Oil Technology,Oil Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Petrochemical Technology,Petrochemical Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Geo- Informatics Engineering,Geo- Informatics Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Telecommunication Engineering,Telecommunication Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Naval Architecture & Ship Building,Naval Architecture & Ship Building,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Manufacturing Technology,Manufacturing Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Thermal Engineering,Thermal Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Power System Engineering,Power System Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Communication Engineering,Communication Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Engineering Science,Engineering Science,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Mineral Engineering,Mineral Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Plastic Technology',Plastic Technology',Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Industrial Automation,Industrial Automation,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech)Agriculture Information Technology,Agriculture Information Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Infrastucture Engineering,Infrastucture Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Poultry Production Technology,Poultry Production Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Food Science & Technology,Food Science & Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Polymer Science & Technology,Polymer Science & Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Plastic Engineering,Plastic Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Horticulture,Horticulture,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Naval Architecture & Ocean Engineering,Naval Architecture & Ocean Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electronics & NanoTechnology,Electronics & NanoTechnology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Footware Technology,Footware Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Petroleum Engineering & Technology,Petroleum Engineering & Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Rubber & Plastic Technology Engineering,Rubber & Plastic Technology Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Surface Coating Technology,Surface Coating Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Engineering Design,Engineering Design,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) BioMedical Instrumentation,BioMedical Instrumentation,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Food Science ,Food Science,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Printing Graphics & Packaging,Printing Graphics & Packaging,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Applied Electronics & Engineering,Applied Electronics & Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Carpet & Textile Technology,Carpet & Textile Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Print & Media Technology,Print & Media Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Soil & Water Conservation Engineering,Soil & Water Conservation Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Cloud Technology,Cloud Technology,Engineering,1,2,50,1,18
+ Bachelor of Technology (B.Tech) Environmental Engineering & Water Resources,Environmental Engineering & Water Resources,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Power Electronics,Power Electronics,Engineering,1,2,50,1,18
+ Bachelor of Technology (B.Tech) Medical Electronics,Medical Electronics,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Polymer Technology,Polymer Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Chemical Science & Technology,Chemical Science & Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Upstream &Applied Petroleum Engineering,Upstream &Applied Petroleum Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Gas & Applied Petroleum Engineering,Gas & Applied Petroleum Engineering,Engineering,1,2,50,1,18
+ Bachelor of Technology (B.Tech) Open Source & Open Standards,Open Source & Open Standards,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Dyestuff & Intermediates Technology,Dyestuff & Intermediates Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Solar & Alternate Energy,Solar & Alternate Energy,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Fibers and Textiles Processing Technology,Fibers and Textiles Processing Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Pharmaceuticals Chemistry & Technology,Pharmaceuticals Chemistry & Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Food Technology & Biochemical Engineering,Food Technology & Biochemical Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Computer & Information Science,Computer & Information Science,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Water Resources Engineering,Water Resources Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Oleo Chemicals & Surfactants Technology,Oleo Chemicals & Surfactants Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Enterprise Information Systems,Enterprise Information Systems,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Bioprocess Technology,Bioprocess Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Polymer Science & Chemical Technology,Polymer Science & Chemical Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Man Made Fiber Technology,Man Made Fiber Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Packaging technology,Packaging technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Applied Mechanics,Applied Mechanics,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Nuclear Science & Engineering,Nuclear Science & Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electronics Control System Engg./Electronics,Electronics Control System Engg./Electronics,Engineering,1,2,50,1,18
+Bachelor of Engineering (B.E) NanoTechnology,NanoTechnology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Apparel Production management,Apparel Production management,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Chemical & Electrochemical Engineering,Chemical & Electrochemical Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Industrial Design, Industrial Design,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Autotronics,Autotronics,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Physical Sciences,Physical Sciences,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electrical Engineering Power & Automation,Electrical Engineering Power & Automation,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Biological Sciences & Bio Engineering,Biological Sciences & Bio Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Agri-Informatics,Agri-Informatics,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Molecular & Cellular Engineering,Molecular & Cellular Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech)  Intelligent Systems,Intelligent Systems,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Optics & Optoelectronics,Optics & Optoelectronics,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Professional Communication,Professional Communication,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Industrial Microbiology,Industrial Microbiology,Engineering,1,2,50,1,18
+ Bachelor of Technology (B.Tech) Rubber Technology,Rubber Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Mobile Application & Information Security,Mobile Application & Information Security,Engineering,1,2,50,1,18
+ Bachelor of Technology (B.Tech) Space Technologyg,Space Technologyg,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Urban & Regional Planning,Urban & Regional Planning,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Bio-Technology Food Process Engineering,Bio-Technology Food Process Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Earth Science,Earth Science,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Telecom Informatics,Telecom Informatics,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Sugar & Alcohol technology,Sugar & Alcohol technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Geo sciences Engineering,Geo sciences Engineering,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Atmospheric Sciences,Atmospheric Sciences,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) TV,TV,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Motor Sports Engineering,Motor Sports Engineering,Engineering,1,2,50,1,18
+ Bachelor of Technology (B.Tech) Mainframe technology,Mainframe technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Electronics & Media Technology,Electronics & Media Technology,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Fashion & Lifestyle Design,Fashion & Lifestyle Design,Engineering,1,2,50,1,18
+Bachelor of Technology (B.Tech) Biologically Inspired System Science,Biologically Inspired System Science,Engineering,1,2,50,1,18
+Bachelor of Science (B.Sc) Physics,Physics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc ) Chemistry,Chemistry,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Computer Science,Computer Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Mathematics,Mathematics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc)  Zoology,Zoology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Botany,Botany,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Biotechnology,Biotechnology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) MicroBiology,MicroBiology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Information Technology,Information Technology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Chemistry,Hons. Chemistry,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Mathematics,Hons. Mathematics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Physics,Hons. Physics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Statistics,Statistics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Electronics,Electronics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons.Zoology,Hons.Zoology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Botany,Hons. Botany,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Biochemistry,Biochemistry,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Computer Science,Hons. Computer Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Home Science,Home Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Geography,Geography,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Biology,Biology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Economics,Economics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Non-Medical,Non-Medical,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Geology,Geology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Psychology,Psychology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Economics,Hons. Economics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Biotechnology,Hons. Biotechnology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Medical,Medical,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Computer Applications,Computer Applications,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. MicroBiology,Hons. MicroBiology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) hons. Geography,hons. Geography,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Environmental Science,Environmental Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Optometry,Optometry,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Visual Communication,Visual Communication,Bachelor of Science,2,2,50,1,18
+ Bachelor of Science (B.Sc) Hons.Statistics,Hons.Statistics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Nutrition & Dietetics,Nutrition & Dietetics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Forensic Science,Forensic Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hotel Management,Hotel Management,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Industrial Chemistry,Industrial Chemistry,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Data Science,Data Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Electronics,Hons. Electronics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Forestry,Forestry,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Geology,Hons. Geology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Life Sciences, Life Sciences,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Physical Sciences,Physical Sciences,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Physiology,Physiology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Naturopathy & Yogic Science,Naturopathy & Yogic Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Bio-Informatics,Bio-Informatics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Electronics & Communication,Electronics & Communication,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. BioChemistry,Hons. BioChemistry,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Anthropology,Anthropology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) food Technology,food Technology,Bachelor of Science,2,2,50,1,18
+ Bachelor of Science (B.Sc)  Costume Design & Fashion,  Costume Design & Fashion,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) food Science And Nutrition,food Science And Nutrition,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc)  Fisheries Science,Fisheries Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Psychology,Hons. Psychology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Environmental Science, Hons. Environmental Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Genetics,Genetics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Textile Design,Textile Design,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Fashion Technology,Fashion Technology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hotel Management & Catering Technology,Hotel Management & Catering Technology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Nutrition , Nutrition ,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Nautical Science,Nautical Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Cardiovascular Technology,Cardiovascular Technology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Fashion & Apparel Design,Fashion & Apparel Design,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Anaesthesia Technology,Anaesthesia Technology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Plant Biology & Plant Biotechnology,Plant Biology & Plant Biotechnology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Home Science, Hons. Home Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Biological Science,Biological Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Medical RadioGraphy & Imaging Technology,Medical RadioGraphy & Imaging Technology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Physical Education,Physical Education,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) multimedia,multimedia,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Advanced Zoology & Biotechnology,Advanced Zoology & Biotechnology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. BioMedical Sciences,Hons. BioMedical Sciences,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Clinical Nutrition,Clinical Nutrition,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Aquaculture,Aquaculture,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Electronic Media,Electronic Media,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Instrumentation, Instrumentation,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Food Sciences,Food Sciences,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Audiology & Speech Language Pathology,Audiology & Speech Language Pathology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Physiotherapy,Physiotherapy,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Actuarial Science,Actuarial Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Fire Safety & Hazard Management,Fire Safety & Hazard Management,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Photography,Photography,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Airlines Tourism & Hospitality Management,Airlines Tourism & Hospitality Management,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Biological Science,Hons. Biological Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Aeronautical Science,Aeronautical Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Anatomy,Anatomy,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Finance,Finance,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Cardiac Perfusion,Cardiac Perfusion,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Renewable Energy,Renewable Energy,Bachelor of Science,2,2,50,1,18
+ Bachelor of Science (B.Sc) Software Engineering,Software Engineering,Bachelor of Science,2,2,50,1,18
+ Bachelor of Science (B.Sc)  Mass Communication,Mass Communication,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Airline Tourism & Hospitality Management,Airline Tourism & Hospitality Management,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Applied Nutrition,Applied Nutrition,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Applied Physics,Applied Physics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Fisheries ( Aquaculture),Fisheries ( Aquaculture),Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Applied chemistry,Applied chemistry,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Applied Mathematics,Applied Mathematics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Multimedia Technology,Multimedia Technology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Social Science,Social Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Applied Electronics,Applied Electronics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Applied Science,Applied Science,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Astrophysics,Astrophysics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Avionics,Avionics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) BioStatistics,BioStatistics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Ecology, Ecology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Environmental Science & Ecology,Environmental Science & Ecology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Gemology,Gemology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Account & Finance,Account & Finance,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Economics & Finance,Economics & Finance,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Computer Science Statistics,Computer Science Statistics,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Construction Management,Construction Management,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Accountancy,Accountancy,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Applied BioTechnology,Applied BioTechnology,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Aqualogy,Aqualogy,Bachelor of Science,2,2,50,1,18
+Bachelor of Science (B.Sc) Beauty Cosmetology,Beauty Cosmetology,Bachelor of Science,2,2,50,1,18
+"Bachelor of Medicine ,Bachelor of Surgery (MBBS)",Medicine,Medical,3,2,50,1,18
+Bachelor of Physiotherapy (BPT),Physiotherapy,Medical,3,2,50,1,18
+Diploma in Medical Loboratory Technology(DMLT),Laboratory,Medical,3,2,50,1,18
+Bachelor of  Ayurvedic Medicine & Surgery (BAMS),Ayurveda,Medical,3,2,50,1,18
+Bachelor of Homeopathic medicine & Surgery (BHMS),Homeopathi,Medical,3,2,50,1,18
+Bachelor of Science (B.Sc) Operation Theatre Technology,operation,Medical,3,2,50,1,18
+Diploma in Physiothepary (DPT),Physiothepary,Medical,3,2,50,1,18
+Bachelor of Occupational Therapy (BOT),Occupational Therapy,Medical,3,2,50,1,18
+Diploma in Medical Radio Diagnosis(DMRD), Medical Radio Diagnosis,Medical,3,2,50,1,18
+Bachelor in Auidology & Speech- Language Pathology (BASLP),Auidology & Speech- Language Pathology ,Medical,3,2,50,1,18
+Bachelor of Science (B.Sc) Medical Imaging Technology,Medical Imaging Technology,Medical,3,2,50,1,18
+Diploma in Clinical Pathology (DP),Clinical Pathology,Medical,3,2,50,1,18
+Bachelor of Science (B.Sc) Dialysis, Dialysis,Medical,3,2,50,1,18
+Bachelor of Science (B.Sc) Perfusion Technology,Perfusion Technology,Medical,3,2,50,1,18
+Bachelor of Science (B.Sc) Renal Dialysis Technology,Renal Dialysis Technology,Medical,3,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Physiology, Hons. Physiology,Medical,3,2,50,1,18
+Diploma in X-Ray Technology,X-Ray,Medical,3,2,50,1,18
+Bachelor of Science (B.Sc) Industrial Mircobiology,Industrial Mircobiology,Medical,3,2,50,1,18
+Diploma in Otorhinolaryngology (DLO),Otorhinolaryngology,Medical,3,2,50,1,18
+Diploma in Anaesthesia (DA), Anaesthesia,Medical,3,2,50,1,18
+Diploma in Nursing,Nursing,Medical,3,2,50,1,18
+Diploma in Operation Theatre Techniques,Operation Theatre Techniques,Medical,3,2,50,1,18
+Bachelor of Science (B.Sc) Respiratory Therapy,Respiratory Therapy,Medical,3,2,50,1,18
+Diploma in Dialysis Techniques,Dialysis Techniques,Medical,3,2,50,1,18
+Bachelor of Unami Medicine & Surgery, Unami Medicine & Surgery,Medical,3,2,50,1,18
+Bachelor of Science (B.Sc) RadioGraphy,RadioGraphy,Medical,3,2,50,1,18
+Diploma in RadioGraphy, RadioGraphy,Medical,3,2,50,1,18
+Diploma in Radiology Therapy (DMRT), Radiology Therapy ,Medical,3,2,50,1,18
+Bachelor of Science (B.Sc) Imaging Technology Radiography, Imaging Technology Radiography,Medical,3,2,50,1,18
+Diploma in Occupational Therapy, Occupational Therapy,Medical,3,2,50,1,18
+Bachelor of Science (B.Sc) Audiology, Audiology,Medical,3,2,50,1,18
+Diploma in Fashion Design,Fashion Design,Design,4,2,50,1,18
+Diploma in Interior Design,Interior Design,Design,4,2,50,1,18
+Bachelor of Science (B.Sc) Fashion Design,Fashion Design,Design,4,2,50,1,18
+Bachelor of design (B.DES) Fashion Design,Fashion Design,Design,4,2,50,1,18
+Bachelor of Science (B.Sc) Interior Design,Interior Design,Design,4,2,50,1,18
+Bachelor of Design (B.DES) interior design,Interior Design,Design,4,2,50,1,18
+Advanced Diploma in Fashion Design,Fashion Design,Design,4,2,50,1,18
+Advanced Diploma in Interior Design,Interior Design,Design,4,2,50,1,18
+Diploma in Textile Design,Textile design,Design,4,2,50,1,18
+Bachelor of Arts (BA) Fashion Design,Fashion Design,Design,4,2,50,1,18
+Bachelor of Design (B.DES) Textile Design,Textile design,Design,4,2,50,1,18
+Bachelor of Design (B.DES) Product Design,Product Design,Design,4,2,50,1,18
+Diploma in Jewellery Design,jewellery Design,Design,4,2,50,1,18
+Bachelor of Design (B.DES) Communication Design,Communication Design,Design,4,2,50,1,18
+Bachelor of Design (B.DES) Fashion Communication,Fashion Communication,Design,4,2,50,1,18
+Bachelor of Fashion Design,Fashion Design,Design,4,2,50,1,18
+Bachelor of Design (B.DES) Graphic Design,Graphic Design,Design,4,2,50,1,18
+Bachelor of Design (B.DES) Industrial Design,Industrial Design,Design,4,2,50,1,18
+Bachelor of Design (B.DES) Accessory Design,Accessory Design,Design,4,2,50,1,18
+Bachelor of fashion & Apparel Design (B.FAD),Apparel Design,Design,4,2,50,1,18
+Bachelor in Fashion Technology,Fashion Technology,Design,4,2,50,1,18
+Bachelor of Design (B.DES) Knitwear Design,Knitwear Design,Design,4,2,50,1,18
+Diploma in Animation & Multimedia,Annimation & Multimedia,Design,4,2,50,1,18
+Bachelor of Design (B.DES) Jewellery Design,jewellery Design,Design,4,2,50,1,18
+Bachelor of Science (B.Sc) Agriculture,Agriculture,Agriculture,5,2,50,1,18
+Bachelor of Science (B.Sc) Hons. Agriculture,Hons.Agriculture,Agriculture,5,2,50,1,18
+Diploma in Agriculture,Agriculture,Agriculture,5,2,50,1,18
+Bachelor of Science (B.Sc) Horticulture Science,Horticulture Science,Agriculture,5,2,50,1,18
+Diploma in Horticulture,Horticulture ,Agriculture,5,2,50,1,18
+Diploma in Animal Husbandry,Animal Husbandry,Agriculture,5,2,50,1,18
+Bachelor of Science (B.Sc) Fisheries, Fisheries,Agriculture,5,2,50,1,18
+Bachelor of Science (B.Sc) Agronomy,Agronomy,Agriculture,5,2,50,1,18
+Bachelor of Science (B.Sc) Animation,Animation,Animation,6,2,50,1,18
+Bachelor of Science (B.Sc) Animation & Multimedia,Animation & Multimedia,Animation,6,2,50,1,18
+Diploma in Web Designing,Web Designing,Animation,6,2,50,1,18
+Bachelor of Science (B.Sc) Animation & VFX,Animation & VFX,Animation,6,2,50,1,18
+Bachelor of Science (B.Sc) Animation & Visual Effect,Animation & Visual Effect,Animation,6,2,50,1,18
+Bachelor of Science (B.Sc) Multimedia Animation & Graphics,Multimedia Animation & Graphics,Animation,6,2,50,1,18
+Bachelor of Design  (B.DES) Animation,Animation,Animation,6,2,50,1,18
+Bachelor of Science (B.Sc) Animation Film Making,Animation Film Making,Animation,6,2,50,1,18
+Bachelor of Fine Arts (BFA) Animation,Fine Arts Animation,Animation,6,2,50,1,18
+Bachelor of Architecture (B.Arch),Architecture,Architecture,7,2,50,1,18
+Bachelor of Planning,Planning,Architecture,7,2,50,1,18
+Diploma in Construction Management (DCM),Construction Management,Architecture,7,2,50,1,18
+Bachelor of Architecture (B.Arch) Interior Design,Interior design,Architecture,7,2,50,1,18
+Bachelor of Architecture (B.Arch) Landspace Architecture,Landspace Architecture,Architecture,7,2,50,1,18
+Bachelor of Architecture (B.Arch) Building Construction Technology,Building Construction Technology,Architecture,7,2,50,1,18
+Bachelor of Business Administartion (BBA) Aviation,Aviation,Aviation,8,2,50,1,18
+Aircraft Maintenance Engineering (AME) Mechanical Stream,Mechanical Stream,Aviation,8,2,50,1,18
+Aircraft Maintenance Engineering (AME) Aviation Stream,Aviation Stream,Aviation,8,2,50,1,18
+Diploma in Aviation,Aviation,Aviation,8,2,50,1,18
+Private  pilot License,Private  pilot License,Aviation,8,2,50,1,18
+Bachelor of Business Administartion (BBA) Airport Management, Airport Management,Aviation,8,2,50,1,18
+Bachelor of Computer Applications (BCA) ,Computer Applications,Computer Applications,9,2,50,1,18
+Diploma in Computer Application (DCA),Computer Applications,Computer Applications,9,2,50,1,18
+Bachelor of Computer Applications (BCA) Hons.,(BCA) Hons.,Computer Applications,9,2,50,1,18
+Diploma in Graphic Design, Graphic Design,Computer Applications,9,2,50,1,18
+Bachelor of Science (B.Sc) Computer Technology,Computer Technology,Computer Applications,9,2,50,1,18
+Bachelor of Computer Applications (BCA) Data Science,Data Science ,Computer Applications,9,2,50,1,18
+Bachelor of Computer Applications (BCA) Data Analytics,Data Analytics,Computer Applications,9,2,50,1,18
+Bachelor of Computer Applications (BCA) Computer Science,Computer Science,Computer Applications,9,2,50,1,18
+Bachelor of Computer Science (BCS),Computer Science,Computer Applications,9,2,50,1,18
+Diploma in Computer Programming (DCP),Computer Programming,Computer Applications,9,2,50,1,18
+Bachelor of Computer Application (BCA) Database Systems,Database Systems,Computer Applications,9,2,50,1,18
+Bachelor of Dental Surgery (BDS),Dental,Dental,10,2,50,1,18
+Bachelor of Dental Surgery (BDS) General Surgery,General Surgery,Dental,10,2,50,1,18
+Bachelor of Dental Surgery (BDS) Prosthodontics,Prosthodontics,Dental,10,2,50,1,18
+Bachelor of Dental Surgery (BDS)  Oral & MaxillOfacial Surgery,Oral & MaxillOfacial Surgery,Dental,10,2,50,1,18
+Bachelor of Dental Surgery (BDS) Orthodontics,Orthodontics,Dental,10,2,50,1,18
+Bachelor of Dental Surgery (BDS) Oral Medicine & Radiology, Oral Medicine & Radiology,Dental,10,2,50,1,18
+Bachelor of Hotel Management & Catering Technology (BHMCT),Hotel Management & Catering Technology ,Hotel management,11,2,50,1,18
+Diploma in Hotel Management,Hotel Management ,Hotel management,11,2,50,1,18
+Bachelor of Hotel management (BHM),Hotel Management,Hotel management,11,2,50,1,18
+Diploma in Food Production,Food Production,Hotel management,11,2,50,1,18
+Bachelor of Science(B.Sc) Hospitality & Hotel Admistration,Hospitality & Hotel Admistration,Hotel management,11,2,50,1,18
+Diploma in Hotel Management & Catering Technology,Hotel Management & Catering Technology ,Hotel management,11,2,50,1,18
+Diploma in Hospitality Management,Hospitality management,Hotel management,11,2,50,1,18
+Diploma in Bakery & Confiectionery,Bakery & Confiectionery,Hotel management,11,2,50,1,18
+Bachelor of Science (B.Sc) Catering Science & Hotel Management,Catering Science & Hotel Management,Hotel management,11,2,50,1,18
+Bachelor of Science (B.Sc) Hospitality Studies,Hospitality Studies,Hotel management,11,2,50,1,18
+Bachelor of Hospital Management (BHM),Hospital Management,Hotel management,11,2,50,1,18
+Diploma Course In House Keeping,House Keeping,Hotel management,11,2,50,1,18
+Bachelor of Hospitaitly  Management (BHM), Hospitaitly  Management ,Hotel management,11,2,50,1,18
+Bachelor of Arts (BA)  Hospitaitly  Management , Hospitaitly  Management ,Hotel management,11,2,50,1,18
+Diploma in Aviation Hospitality & Travel Management,Aviation Hospitality & Travel Management,Hotel management,11,2,50,1,18
+Bachelor of Hospitality Management (BHM) Culinary, Culinary,Hotel management,11,2,50,1,18
+Bachelor of Laws (LLB),Laws,Laws,12,2,50,1,18
+Bachelor of Arts +Bachelor of Laws (BALLB),Arts Laws,Laws,12,2,50,1,18
+Bachelor of Laws (LLB) Hons.,Hons.Laws,Laws,12,2,50,1,18
+Diploma in Cyber Law,Cyber Law,Laws,12,2,50,1,18
+Diploma in Taxation  law (DTL),Taxation Law,Laws,12,2,50,1,18
+Diploma in Labour Laws & Labour Welfare, Labour Laws & Labour Welfare,Laws,12,2,50,1,18
+Bachelor of Science +Bachelor of Laws (B.SC LLB),Science & Laws,Laws,12,2,50,1,18
+Diploma in Criminology,Criminology,Laws,12,2,50,1,18
+Bachelor of Laws (LLB) Intellectual Property Rights,Intellectual Property Rights,Laws,12,2,50,1,18
+Bachelor of Arts (BA) Journalism & Mass Communication , Journalism & Mass Communication,Mass Communication,13,2,50,1,18
+Bachelor of Journalism & Mass Communication (BJMC),Journalism & Mass Communication,Mass Communication,13,2,50,1,18
+Bachelor of Mass Media (BMM),Mass Media,Mass Communication,13,2,50,1,18
+Bachelor of Arts (BA) Hons.Journalism & Mass Communication ,Hons.Journalism & Mass Communication ,Mass Communication,13,2,50,1,18
+Diploma in Journalism & Mass Communication,Journalism & Mass Communication,Mass Communication,13,2,50,1,18
+Bachelor of Mass Communication (B.M.C), Mass Communication,Mass Communication,13,2,50,1,18
+Diploma in multimedia (DMM),Multimedia,Mass Communication,13,2,50,1,18
+BACHELOR OF SCIENCE [B.SC] (NURSING),(NURSING),Paramedical,14,2,50,1,18
+GENERAL NURSING AND MIDWIFERY [GNM],NURSING AND MIDWIFERY [GNM],Paramedical,14,2,50,1,18
+POST BASIC BACHELOR OF SCIENCE [P.B.B.SC] (NURSING), SCIENCE [P.B.B.SC] (NURSING),Paramedical,14,2,50,1,18
+BACHELOR OF SCIENCE [B.SC] (MEDICAL LABORATORY TECHNOLOGY),(MEDICAL LABORATORY TECHNOLOGY),Paramedical,14,2,50,1,18
+AUXILIARY NURSING MIDWIFERY [ANM] (NURSING),NURSING MIDWIFERY ,Paramedical,14,2,50,1,18
+BACHELOR IN MEDICAL LABORATORY TECHNOLOGY [BMLT], MEDICAL LABORATORY TECHNOLOGY,Paramedical,14,2,50,1,18
+BACHELOR OF OPTOMETRY [B.OPTOM],OPTOMETRY [,Paramedical,14,2,50,1,18
+DIPLOMA IN GYNAECOLOGY AND OBSTETRICS [DGO],GYNAECOLOGY AND OBSTETRICS,Paramedical,14,2,50,1,18
+P.B.BACHELOR OF SCIENCE [B.SC] (NURSING),SCIENCE [B.SC] (NURSING),Paramedical,14,2,50,1,18
+DIPLOMA IN CHILD HEALTH [DCH], CHILD HEALTH ,Paramedical,14,2,50,1,18
+DIPLOMA IN ORTHOPAEDICS,ORTHOPAEDICS,Paramedical,14,2,50,1,18
+DIPLOMA IN OPTOMETRY, OPTOMETRY,Paramedical,14,2,50,1,18
+DIPLOMA IN OPERATION THEATRE TECHNOLOGY,OPERATION THEATRE TECHNOLOGY,Paramedical,14,2,50,1,18
+DIPLOMA IN OPHTHALMOLOGY,OPHTHALMOLOGY,Paramedical,14,2,50,1,18
+BACHELOR OF SCIENCE [B.SC] (CARDIAC TECHNOLOGY),(CARDIAC TECHNOLOGY),Paramedical,14,2,50,1,18
+BACHELOR OF SCIENCE [B.SC] (PHYSICIAN ASSISTANT),(PHYSICIAN ASSISTANT),Paramedical,14,2,50,1,18
+"DIPLOMA IN DERMATOLOGY, VENEROLOGY AND LEPROSY [DDVL]","DERMATOLOGY, VENEROLOGY AND LEPROSY",Paramedical,14,2,50,1,18
+BACHELOR OF SCIENCE [B.SC] (NUCLEAR MEDICINE TECHNOLOGY),NUCLEAR MEDICINE TECHNOLOGY),Paramedical,14,2,50,1,18
+BACHELOR OF SCIENCE [B.SC] {HONS.} (NURSING),{HONS.} (NURSING),Paramedical,14,2,50,1,18
+BACHELOR OF SCIENCE [B.SC] (NEUROPHYSIOLOGY TECHNOLOGY),NEUROPHYSIOLOGY TECHNOLOGY),Paramedical,14,2,50,1,18
+"DIPLOMA IN DERMATOLOGY,",DERMATOLOGY,Paramedical,14,2,50,1,18
+BACHELOR OF PARAMEDICAL TECHNOLOGY [BPMT],PARAMEDICAL TECHNOLOGY,Paramedical,14,2,50,1,18
+DIPLOMA IN CLINICAL RESEARCH,CLINICAL RESEARCH,Paramedical,14,2,50,1,18
+BACHELOR OF PHARMACY [B.PHARMA],PHARMACY,Pharmacy,15,2,50,1,18
+DIPLOMA IN PHARMACY [D.PHARMA],D.PHARMA,Pharmacy,15,2,50,1,18
+BACHELOR OF PHARMACY [B.PHARM] (PHARMACEUTICS), [B.PHARM] (PHARMACEUTICS),Pharmacy,15,2,50,1,18
+BACHELOR OF PHARMACY [B.PHARM] (AYURVEDA),B.PHARM] (AYURVEDA),Pharmacy,15,2,50,1,18
+DIPLOMA IN AYURVEDIC PHARMACY,AYURVEDIC PHARMACY,Pharmacy,15,2,50,1,18
+"BACHELOR OF PHARMACY [B.PHARM] + MASTER OF BUSINESS
+ADMINISTRATION [MBA]",B.PHARM MBA,Pharmacy,15,2,50,1,18
+BACHELOR OF PHARMACY [B.PHARM] (PHARMACEUTICAL CHEMISTRY),(PHARMACEUTICAL CHEMISTRY),Pharmacy,15,2,50,1,18
+BACHELOR OF PHARMACY [B.PHARM] (PHARMACOLOGY),[B.PHARM] (PHARMACOLOGY),Pharmacy,15,2,50,1,18
+BACHELOR OF VETERINARY SCIENCE [BVSC] & A.H.,VETERINARY SCIENCE,Veterinary Science,16,2,50,1,18
+BACHELOR OF VETERINARY SCIENCE [BVSC] (ANIMAL NUTRITION),ANIMAL NUTRITION),Veterinary Science,16,2,50,1,18
+"BACHELOR OF VETERINARY SCIENCE [B.V.SC.] (LIVESTOCK PRODUCTION
+AND MANAGEMENT)",LIVESTOCK PRODUCTION AND MANAGEMENT),Veterinary Science,16,2,50,1,18
+BACHELOR OF VETERINARY SCIENCE [BVSC] (VETERINARY PATHOLOGY),(VETERINARY PATHOLOGY),Veterinary Science,16,2,50,1,18
+"BACHELOR OF VETERINARY SCIENCE [BVSC] (ANIMAL GENETICS &
+BREEDING)",(ANIMAL GENETICS & BREEDING),Veterinary Science,16,2,50,1,18
+BACHELOR OF VETERINARY SCIENCE [BVSC]MICROBIOLOGY),MICROBIOLOGY),Veterinary Science,16,2,50,1,18
+"BACHELOR OF VETERINARY SCIENCE [BVSC] (VETERINARY SURGERY &
+RADIOLOGY)
+","(VETERINARY SURGERY & RADIOLOGY)
+",Veterinary Science,16,2,50,1,18
+BACHELOR OF VETERINARY SCIENCE [BVSC],VETERINARY SCIENCE,Veterinary Science,16,2,50,1,18
+DIPLOMA IN FOOD & BEVERAGE SERVICE,FOOD & BEVERAGE SERVICE,Vocational Courses,16,2,50,1,18
+BACHELOR OF VOCATIONAL STUDIES [B.VOC.] (SOFTWARE DEVELOPMENT),(SOFTWARE DEVELOPMENT),Vocational Courses,16,2,50,1,18
+DIPLOMA IN PHOTOGRAPHY, PHOTOGRAPHY,Vocational Courses,16,2,50,1,18
+BACHELOR OF VOCATIONAL STUDIES [B.VOC.] , VOCATIONAL STUDIES,Vocational Courses,16,2,50,1,18
+BACHELOR OF VOCATIONAL STUDIES [B.VOC.] (AUTOMOBILES),(AUTOMOBILES),Vocational Courses,16,2,50,1,18
+DIPLOMA IN VISUAL MERCHANDISING,VISUAL MERCHANDISING,Vocational Courses,16,2,50,1,18
+DIPLOMA IN SECRETARIAL PRACTICE,SECRETARIAL PRACTICE,Vocational Courses,16,2,50,1,18
+BACHELOR OF ARTS [BA] (ENGLISH),ENGLISH),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ECONOMICS), (ECONOMICS),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (HISTORY),(HISTORY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (POLITICAL SCIENCE),(POLITICAL SCIENCE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA],ARTS ,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (SOCIOLOGY),(SOCIOLOGY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (HINDI),(HINDI),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (GEOGRAPHY),(GEOGRAPHY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (SANSKRIT), (SANSKRIT),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (ENGLISH),{HONS.} (ENGLISH),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (POLITICAL SCIENCE),(POLITICAL SCIENCE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (HISTORY),{HONS.} (HISTORY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (ECONOMICS), {HONS.} (ECONOMICS),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (PSYCHOLOGY), (PSYCHOLOGY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (EDUCATION), (EDUCATION),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (PHILOSOPHY),PHILOSOPHY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (PHILOSOPHY), {HONS.} (PHILOSOPHY),Arts,17,2,50,1,18
+BACHELOR OF LIBRARY AND INFORMATION SCIENCE [B.LIB.I.SC], LIBRARY AND INFORMATION SCIENCE ,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ENGLISH LITERATURE), (ENGLISH LITERATURE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (SANSKRIT),{HONS.} (SANSKRIT),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (BENGALI), {HONS.} (BENGALI),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (MATHEMATICS),(MATHEMATICS),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (GEOGRAPHY), {HONS.} (GEOGRAPHY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (HOME SCIENCE),HOME SCIENCE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (HINDI),{HONS.} (HINDI),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (BENGALI),(BENGALI),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (SOCIOLOGY),(SOCIOLOGY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (PHYSICAL EDUCATION),PHYSICAL EDUCATION),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (PSYCHOLOGY),HONS.} (PSYCHOLOGY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (EDUCATION),{HONS.} (EDUCATION),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (URDU),(URDU),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (TAMIL),(TAMIL),Arts,17,2,50,1,18
+BACHELOR OF SOCIAL WORK [BSW],SOCIAL WORK ,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (HINDI LITERATURE), (HINDI LITERATURE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (PUBLIC ADMINISTRATION),(PUBLIC ADMINISTRATION),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (MUSIC), (MUSIC),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (MARATHI),MARATHI),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (JOURNALISM),(JOURNALISM),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (KANNADA),(KANNADA),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (COMPUTER APPLICATIONS), (COMPUTER APPLICATIONS),Arts,17,2,50,1,18
+BACHELOR OF FINE ARTS [BFA],FINE ARTS,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (STATISTICS),] (STATISTICS),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (URDU), {HONS.} (URDU),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ARABIC), (ARABIC),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ANCIENT HISTORY),(ANCIENT HISTORY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (MALAYALAM),(MALAYALAM),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (MASS COMMUNICATION), (MASS COMMUNICATION),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (MATHEMATICS),{HONS.} (MATHEMATICS),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ASSAMESE),ASSAMESE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (GUJARATI),(GUJARATI),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (MUSIC VOCAL), (MUSIC VOCAL),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (COMPUTER SCIENCE),(COMPUTER SCIENCE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (POLITICS), (POLITICS),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (DRAWING AND PAINTING),(DRAWING AND PAINTING),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (FUNCTIONAL ENGLISH),(FUNCTIONAL ENGLISH),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.},HONS.},Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (MUSIC), {HONS.} (MUSIC),Arts,17,2,50,1,18
+DIPLOMA IN FRENCH,FRENCH,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (PUNJABI), (PUNJABI),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (TRAVEL AND TOURISM MANAGEMENT),(TRAVEL AND TOURISM MANAGEMENT),Arts,17,2,50,1,18
+BACHELOR OF FINE ARTS [BFA] (PAINTING),(PAINTING),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (PERSIAN),(PERSIAN),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (COMMUNICATIVE ENGLISH),(COMMUNICATIVE ENGLISH),Arts,17,2,50,1,18
+BACHELOR OF FINE ARTS [BFA] (APPLIED ARTS),] (APPLIED ARTS,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ANTHROPOLOGY), (ANTHROPOLOGY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (TAMIL LITERATURE), (TAMIL LITERATURE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ENGLISH LANGUAGE AND ENGLISHLITERATURE),(ENGLISH LANGUAGE AND ENGLISHLITERATURE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (TELUGU),(TELUGU),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (HOME SCIENCE), (HOME SCIENCE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (FINE ARTS),(FINE ARTS),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (SOCIAL WORK),(SOCIAL WORK),Arts,17,2,50,1,18
+BACHELOR OF PERFORMING ARTS [BPA],PERFORMING ARTS [BPA],Arts,17,2,50,1,18
+DIPLOMA IN LIBRARY AND INFORMATION SCIENCE,LIBRARY AND INFORMATION SCIENCE,Arts,17,2,50,1,18
+DIPLOMA IN GERMAN,GERMAN,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (ARABIC),{HONS.} (ARABIC),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (ORIYA),HONS.} (ORIYA),Arts,17,2,50,1,18
+DIPLOMA IN ACTING, ACTING,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (SANSKRIT LITERATURE),(SANSKRIT LITERATURE),Arts,17,2,50,1,18
+BACHELOR OF THEOLOGY [B.TH],THEOLOGY,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ORIYA), (ORIYA),Arts,17,2,50,1,18
+BACHELOR OF VISUAL ARTS [BVA],VISUAL ARTS [BVA],Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (TOURISM STUDIES), (TOURISM STUDIES),Arts,17,2,50,1,18
+DIPLOMA IN MUSIC, MUSIC,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (JOURNALISM),] {HONS.} (JOURNALISM),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (SOCIAL SCIENCE),(SOCIAL SCIENCE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (FRENCH),FRENCH,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (DEFENCE AND STRATEGIC STUDIES),(DEFENCE AND STRATEGIC STUDIES),Arts,17,2,50,1,18
+DIPLOMA IN SPANISH, SPANISH,Arts,17,2,50,1,18
+DIPLOMA IN RUSSIAN,RUSSIAN,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] {HONS.} (ANTHROPOLOGY),} (ANTHROPOLOGY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (DANCE),DANCE),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (MULTIMEDIA),MULTIMEDIA),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (CULINARY ARTS), (CULINARY ARTS),Arts,17,2,50,1,18
+DIPLOMA IN ENGLISH,ENGLISH),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (CRIMINOLOGY), (CRIMINOLOGY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (RURAL DEVELOPMENT), (RURAL DEVELOPMENT),Arts,17,2,50,1,18
+BACHELOR OF VISUAL ARTS [BVA] (APPLIED ARTS),(APPLIED ARTS),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ENGLISH WITH JOURNALISM),ENGLISH WITH JOURNALISM),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (INTERIOR DESIGN),(INTERIOR DESIGN),Arts,17,2,50,1,18
+BACHELOR OF DIVINITY [B.DIV],DIVINITY [B.DIV],Arts,17,2,50,1,18
+DIPLOMA IN CHINESE,CHINESE,Arts,17,2,50,1,18
+DIPLOMA IN CINEMATOGRAPHY,CINEMATOGRAPHY,Arts,17,2,50,1,18
+ADVANCED DIPLOMA IN GERMAN,GERMAN,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ISLAMIC STUDIES),ISLAMIC STUDIES),Arts,17,2,50,1,18
+DIPLOMA IN ART AND CRAFT,ART AND CRAFT,Arts,17,2,50,1,18
+DIPLOMA IN JAPANESE,JAPANESE,Arts,17,2,50,1,18
+DIPLOMA IN PERFORMING ARTS,PERFORMING ARTS ,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (HOTEL MANAGEMENT),(HOTEL MANAGEMENT),Arts,17,2,50,1,18
+DIPLOMA IN ASTROLOGY [DIA],ASTROLOGY [DIA],Arts,17,2,50,1,18
+BACHELOR OF SPORTS MANAGEMENT [BSM], SPORTS MANAGEMENT,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (VISUAL ARTS),(VISUAL ARTS),Arts,17,2,50,1,18
+ADVANCED DIPLOMA IN FRENCH,FRENCH,Arts,17,2,50,1,18
+DIPLOMA IN COUNSELLING & GUIDANCE,COUNSELLING & GUIDANCE,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (BUSINESS ECONOMICS),BUSINESS ECONOMICS),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (VISUAL COMMUNICATION),(VISUAL COMMUNICATION),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (LINGUISTICS),LINGUISTICS),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ACTING),ACTING),Arts,17,2,50,1,18
+DIPLOMA IN PUBLIC RELATIONS,PUBLIC RELATIONS,Arts,17,2,50,1,18
+BACHELOR OF LITERATURE [B.LIT], LITERATURE ,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (CRIMINOLOGY AND POLICE ADMINISTRATION),CRIMINOLOGY AND POLICE ADMINISTRATION),Arts,17,2,50,1,18
+BACHELOR OF FINE ARTS [BFA] (PHOTOGRAPHY),(PHOTOGRAPHY),Arts,17,2,50,1,18
+DIPLOMA IN FOLKLORE,FOLKLORE,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (MEDIA STUDIES),(MEDIA STUDIES),Arts,17,2,50,1,18
+DIPLOMA IN TRANSLATION,TRANSLATION,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (FOREIGN LANGUAGES),(FOREIGN LANGUAGES),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (TEXTILE DESIGN), (TEXTILE DESIGN),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ASTROLOGY),ASTROLOGY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (PUBLIC POLICY AND ADMINISTRATION),PUBLIC POLICY AND ADMINISTRATION,Arts,17,2,50,1,18
+BACHELOR OF FINE ARTS [BFA] (DIGITAL ART),DIGITAL ART),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (PUBLIC RELATIONS),PUBLIC RELATIONS),Arts,17,2,50,1,18
+DIPLOMA IN FINE ART (PAINTING), FINE ART (PAINTING),Arts,17,2,50,1,18
+DIPLOMA IN PUBLIC ADMINISTRATION,PUBLIC ADMINISTRATION,Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (DEVELOPMENT STUDIES),DEVELOPMENT STUDIES),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (ACCOUNTANCY),(ACCOUNTANCY),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (DEVELOPMENTAL ECONOMICS),(DEVELOPMENTAL ECONOMICS),Arts,17,2,50,1,18
+BACHELOR OF ARTS [BA] (PUBLIC HEALTH), (PUBLIC HEALTH),Arts,17,2,50,1,18
+BACHELOR OF COMMERCE [B.COM],COMMERCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (COMPUTER APPLICATIONS),(COMPUTER APPLICATIONS,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] {HONS.},{HONS,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (ACCOUNTING AND FINANCE),(ACCOUNTING AND FINANCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (CORPORATE SECRETARYSHIP),CORPORATE SECRETARYSHIP,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (BANKING AND INSURANCE),BANKING AND INSURANCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (TAXATION),TAXATION,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] {HONS.} (ACCOUNTANCY),ACCOUNTANCY,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (FINANCE),(FINANCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] {HONS.} (ACCOUNTING AND FINANCE),ACCOUNTING AND FINANCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (ACCOUNTANCY),ACCOUNTANCY,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (PROFESSIONAL),PROFESSIONAL,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (CO-OPERATION),(CO-OPERATION),Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (PROFESSIONAL ACCOUNTING),PROFESSIONAL ACCOUNTING,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (BANKING MANAGEMENT),(BANKING MANAGEMENT,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (COMPUTER SCIENCE),COMPUTER SCIENCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (TAX PROCEDURE AND PRACTICE),TAX PROCEDURE AND PRACTICE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (INFORMATION TECHNOLOGY),(INFORMATION TECHNOLOGY,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (TAXATION AND FINANCE),TAXATION AND FINANCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (FINANCIAL MARKETS),FINANCIAL MARKETS,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (MARKETING),MARKETING),Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (FOREIGN TRADE MANAGEMENT),(FOREIGN TRADE MANAGEMENT,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (E-COMMERCE),E-COMMERCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (BANKING & FINANCE),(BANKING & FINANCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (BUSINESS ADMINISTRATION),BUSINESS ADMINISTRATION,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (ACCOUNTING),(ACCOUNTING),Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (MANAGEMENT STUDIES),MANAGEMENT STUDIES,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (FINANCIAL ACCOUNTING),(FINANCIAL ACCOUNTING,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (ECONOMICS),ECONOMICS,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (STATISTICS),STATISTICS,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (TOURISM AND TRAVELMANAGEMENT),TOURISM AND TRAVELMANAGEMENT,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (INSURANCE MANAGEMENT),INSURANCE MANAGEMENT,Commerce courses,18,2,50,1,18
+DIPLOMA IN BANKING & FINANCE,BANKING & FINANCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (INTERNATIONAL BUSINESS),INTERNATIONAL BUSINESS,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (BUSINESS ECONOMICS),BUSINESS ECONOMICS,Commerce courses,18,2,50,1,18
+DIPLOMA IN ACCOUNTING AND FINANCE,ACCOUNTING AND FINANCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (APPLIED ECONOMICS),APPLIED ECONOMICS,Commerce courses,18,2,50,1,18
+DIPLOMA IN COMPUTERISED ACCOUNTING [DIC],COMPUTERISED ACCOUNTING,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (INVESTMENT MANAGEMENT),INVESTMENT MANAGEMENT,Commerce courses,18,2,50,1,18
+BACHELOR OF ACCOUNTING AND FINANCE [BAF],ACCOUNTING AND FINANCE ,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM], COMMERCE,Commerce courses,18,2,50,1,18
+BACHELOR OF COMMERCE [B.COM] (SUPPLY CHAIN MANAGEMENT),SUPPLY CHAIN MANAGEMENT,Commerce courses,18,2,50,1,18
+BACHELOR OF EDUCATION [B.ED],EDUCATION,Education Courses,19,2,50,1,18
+DIPLOMA IN EDUCATION [D.ED],EDUCATION ,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (ENGLISH),ENGLISH,Education Courses,19,2,50,1,18
+BACHELOR OF PHYSICAL EDUCATION [B.P.ED],PHYSICAL EDUCATION,Education Courses,19,2,50,1,18
+DIPLOMA IN ELEMENTARY EDUCATION - [D.EL.ED.],ELEMENTARY EDUCATION,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (PHYSICAL SCIENCE),PHYSICAL SCIENCE,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED.] (MATHEMATICS),MATHEMATICS,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (HISTORY),HISTORY,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (TAMIL),TAMIL,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (BIOLOGICAL SCIENCES),BIOLOGICAL SCIENCES,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (COMMERCE),COMMERCE,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (COMPUTER SCIENCE),COMPUTER SCIENCE,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (ECONOMICS),ECONOMICS,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (SOCIAL SCIENCE),SOCIAL SCIENCE,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (GEOGRAPHY,GEOGRAPHY,Education Courses,19,2,50,1,18
+BASIC TRAINING CERTIFICATE [BTC], TRAINING ,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (NATURAL SCIENCE),NATURAL SCIENCE,Education Courses,19,2,50,1,18
+BACHELOR OF ELEMENTARY EDUCATION [B.EL.ED],ELEMENTARY EDUCATION,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (HINDI),HINDi,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (SPECIAL EDUCATION),(SPECIAL EDUCATION,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (MALAYALAM),MALAYALAM,Education Courses,19,2,50,1,18
+DIPLOMA IN NURSERY TEACHER TRAINING [NTT],NURSERY TEACHER,Education Courses,19,2,50,1,18
+DIPLOMA IN PHYSICAL EDUCATION,PHYSICAL EDUCATION,Education Courses,19,2,50,1,18
+DIPLOMA IN EARLY CHILDHOOD EDUCATION,EARLY CHILDHOOD EDUCATION,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (HOME SCIENCE),HOME SCIENCE,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (SANSKRIT),SANSKRIT,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (PHYSICS),PHYSICS,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (CHEMISTRY),CHEMISTRY,Education Courses,19,2,50,1,18
+CERTIFICATE IN PHYSICAL EDUCATION [C.P.ED],PHYSICAL EDUCATION,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (HEARING IMPAIRED),HEARING IMPAIRED,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (POLITICAL SCIENCE),POLITICAL SCIENCE,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (PHYSICAL EDUCATION),PHYSICAL EDUCATION,Education Courses,19,2,50,1,18
+FACULTY DEVELOPMENT PROGRAMME,FACULTY DEVELOPMENT PROGRAMME,Education Courses,19,2,50,1,18
+JUNIOR BASIC TRAINING [JBT],JUNIOR BASIC TRAINING [JBT],Education Courses,19,2,50,1,18
+DIPLOMA IN TEACHER EDUCATION [D.T.ED],TEACHER EDUCATION,Education Courses,19,2,50,1,18
+BACHELOR OF EDUCATION [B.ED] (PSYCHOLOGY),PSYCHOLOGY,Education Courses,19,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA],BUSINESS ADMINISTRATION,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS MANAGEMENT [BBM],BUSINESS MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (MARKETING),BUSINESS ADMINISTRATION [,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (HUMAN RESOURCE MANAGEMENT),HUMAN RESOURCE MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (FINANCE),(FINANCE),Management courses,20,2,50,1,18
+BACHELOR OF MANAGEMENT STUDIES [BMS],MANAGEMENT STUDIES,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] {HONS.},BUSINESS ADMINISTRATION HONS.,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (INTERNATIONALBUSINESS),INTERNATIONALBUSINESS,Management courses,20,2,50,1,18
+BACHELOR OF TOURISM AND TRAVEL MANAGEMENT [BTTM], TOURISM AND TRAVEL MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (COMPUTER APPLICATIONS),COMPUTER APPLICATIONS,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (DIGITAL MARKETING),DIGITAL MARKETING,Management courses,20,2,50,1,18
+CERTIFICATE IN TOURISM AND TRAVEL MANAGEMENT,TOURISM AND TRAVEL MANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN EVENT MANAGEMENT,EVENT MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (RETAIL MANAGEMENT),RETAIL MANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN BUSINESS MANAGEMENT,BUSINESS MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (LOGISTICS MANAGEMENT),LOGISTICS MANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN RETAIL MANAGEMENT,RETAIL MANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN FRONT OFFICE,FRONT OFFICE,Management courses,20,2,50,1,18
+DIPLOMA IN TRAVEL AND TOURISM,TRAVEL AND TOURISM,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (TOURISM AND TRAVELMANAGEMENT),TOURISM AND TRAVELMANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (ENTREPRENEURSHIP),ENTREPRENEURSHIP,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (INFORMATIONTECHNOLOGY),INFORMATIONTECHNOLOGY,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (HOSPITALMANAGEMENT,(HOSPITALMANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN TOURISM & TRAVEL MANAGEMENT,TOURISM & TRAVEL MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (SPORTSMANAGEMENT),SPORTSMANAGEMENT),Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (HOSPITALITY &TOURISM),(HOSPITALITY &TOURISM,Management courses,20,2,50,1,18
+DIPLOMA IN BUSINESS ADMINISTRATION,BUSINESS ADMINISTRATION,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (HOTEL MANAGEMENT),(HOTEL MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR IN HOSPITAL ADMINISTRATION [BHA],HOSPITAL ADMINISTRATION,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (BANKING ANDINSURANCE),BANKING ANDINSURANCE),Management courses,20,2,50,1,18
+BACHELOR IN TOURISM MANAGEMENT [BTM],TOURISM MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (EVENT MANAGEMENT),EVENT MANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN EXPORT AND IMPORT MANAGEMENT,EXPORT AND IMPORT MANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN DISASTER MANAGEMENT, DISASTER MANAGEMENT,Management courses,20,2,50,1,18
+ADVANCED DIPLOMA IN BUSINESS MANAGEMENT [ADBM],BUSINESS MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (OPERATIONSMANAGEMENT),(OPERATIONSMANAGEMENT),Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (FINANCE ANDACCOUNTS),FINANCE ANDACCOUNTS,Management courses,20,2,50,1,18
+DIPLOMA IN FINANCIAL MANAGEMENT,FINANCIAL MANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN HUMAN RESOURCE MANAGEMENT,HUMAN RESOURCE MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (FOREIGN TRADE),FOREIGN TRADE,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (TOURISM),TOURISM,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (SUPPLY CHAINMANAGEMENT),SUPPLY CHAINMANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN LOGISTIC MANAGEMENT,LOGISTIC MANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN OFFICE AUTOMATION,OFFICE AUTOMATION,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (SALES ANDMARKETING),SALES ANDMARKETING,Management courses,20,2,50,1,18
+DIPLOMA IN ENTREPRENEURSHIP,ENTREPRENEURSHIP,Management courses,20,2,50,1,18
+CERTIFICATE IN PROJECT MANAGEMENT, PROJECT MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (BANKING),BANKING ,Management courses,20,2,50,1,18
+CERTIFICATE IN HUMAN RESOURCES,HUMAN RESOURCES,Management courses,20,2,50,1,18
+DIPLOMA IN OPERATION MANAGEMENT,OPERATION MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (E-COMMERCE),(E-COMMERCE),Management courses,20,2,50,1,18
+BACHELOR OF MANAGEMENT STUDIES [BMS] (MARKETING),MARKETING,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA PROFESSIONAL],[BBA PROFESSIONAL],Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (ACCOUNTING),ACCOUNTING,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (AGRIBUSINESSMANAGEMENT),AGRIBUSINESSMANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS MANAGEMENT [BBM] (HUMAN RESOURCE MANAGEMENT),HUMAN RESOURCEMANAGEMENT,Management courses,20,2,50,1,18
+ADVANCED DIPLOMA IN MARKETING,MARKETING,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (MEDIA MANAGEMENT),MEDIA MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (TOUR & TRAVELMANAGEMENT),TOUR & TRAVELMANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN SUPPLY CHAIN MANAGEMENT,SUPPLY CHAIN MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS MANAGEMENT [BBM] (INTERNATIONALBUSINESS),INTERNATIONALBUSINESS,Management courses,20,2,50,1,18
+DIPLOMA IN HEALTH ADMINISTRATION, HEALTH ADMINISTRATION,Management courses,20,2,50,1,18
+BACHELOR IN BUSINESS ECONOMICS [BBE], BUSINESS ECONOMICS,Management courses,20,2,50,1,18
+DIPLOMA IN ACCOUNTING MANAGEMENT [DAM],ACCOUNTING MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS MANAGEMENT [BBM] (MARKETINGMANAGEMENT),MARKETINGMANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (INSURANCE),INSURANCE),Management courses,20,2,50,1,18
+DIPLOMA IN COOPERATIVE MANAGEMENT [D.C.M.],COOPERATIVE MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (MANAGEMENT),MANAGEMENT ,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS STUDIES [BBS], BUSINESS STUDIES,Management courses,20,2,50,1,18
+DIPLOMA IN QUALITY MANAGEMENT, QUALITY MANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN INTERNATIONAL BUSINESS,INTERNATIONAL BUSINESS,Management courses,20,2,50,1,18
+DIPLOMA IN PRODUCTION MANAGEMENT,PRODUCTION MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (COMMUNICATIONSMANAGEMENT),(COMMUNICATIONSMANAGEMENT,Management courses,20,2,50,1,18
+DIPLOMA IN OFFICE ADMINISTRATION,OFFICE ADMINISTRATION,Management courses,20,2,50,1,18
+ADVANCED MANAGEMENT PROGRAMME (MANUFACTURING AND OPERATIONS),MANUFACTURING AND OPERATIONS,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (RISK MANAGEMENT),RISK MANAGEMENT,Management courses,20,2,50,1,18
+BACHELOR OF BUSINESS ADMINISTRATION [BBA] (AIR TRAVEL MANAGEMENT),AIR TRAVEL MANAGEMENT,Management courses,20,2,50,1,18
+POST GRADUATE PROGRAM IN PLANNING AND ENTREPRENEURSHIP [PGPPE], PLANNING AND ENTREPRENEURSHIP,Management courses,20,2,50,1,18
+MASTER OF SCIENCE [M.SC] (AGRONOMY),AGRONOMY,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (GENETICS AND PLANT BREEDING),GENETICS AND PLANT BREEDING,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (HORTICULTURE),HORTICULTURE,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (AGRICULTURE),AGRICULTURE,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (PLANT PATHOLOGY),PLANT PATHOLOGY,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (AGRICULTURAL ECONOMICS),AGRICULTURAL ECONOMICS,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (FORESTRY),FORESTRY,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (SEED SCIENCE & TECHNOLOGY),SEED SCIENCE & TECHNOLOGY,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (AGRICULTURAL ENTOMOLOGY),AGRICULTURAL ENTOMOLOGY,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (AGRICULTURAL STATISTICS),AGRICULTURAL STATISTICS,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (DAIRY TECHNOLOGY),DAIRY TECHNOLOGY,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (DAIRY ENGINEERING),DAIRY ENGINEERING,AGRICULTURE,1,3,50,1,21
+POST GRADUATE DIPLOMA IN GIS AND REMOTE SENSING,GIS AND REMOTE SENSING,AGRICULTURE,1,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ANIMATION),ANIMATION,ANIMATION,2,3,50,1,21
+MASTER OF ARTS [MA] (ANIMATION),ANIMATION,ANIMATION,2,3,50,1,21
+MASTER OF ARCHITECTURE [M.ARCH.] (LANDSCAPE ARCHITECTURE),LANDSCAPE ARCHITECTURE,ARCHITECTURE,3,3,50,1,21
+MASTER OF ARCHITECTURE [M.ARCH.] (URBAN DESIGN),URBAN DESIGN,ARCHITECTURE,3,3,50,1,21
+MASTER OF ARCHITECTURE [M.ARCH.] (URBAN & RURAL PLANNING),URBAN & RURAL PLANNING,ARCHITECTURE,3,3,50,1,21
+MASTER OF PLANNING [M.PLAN],,ARCHITECTURE,3,3,50,1,21
+MASTER OF PLANNING (URBAN AND REGIONAL PLANNING),URBAN AND REGIONAL PLANNING,ARCHITECTURE,3,3,50,1,21
+MASTER OF ARTS [MA] (KANNADA),KANNADA,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ENGLISH),ENGLISH,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ECONOMICS),ECONOMICS,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (HISTORY),HISTORY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (POLITICAL SCIENCE),POLITICAL SCIENCE,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (HINDI),HINDI,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (SOCIOLOGY),SOCIOLOGY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (GEOGRAPHY),GEOGRAPHY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (PSYCHOLOGY),PSYCHOLOGY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (EDUCATION),EDUCATION,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (SANSKRIT),SANSKRIT,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (PHILOSOPHY),PHILOSOPHY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (PUBLIC ADMINISTRATION),PUBLIC ADMINISTRATION,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (TAMIL),TAMIL,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (URDU),URDU,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (MATHEMATICS),MATHEMATICS,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ENGLISH LITERATURE),ENGLISH LITERATURE,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (HOME SCIENCE),HOME SCIENCE,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (MUSIC),MUSIC,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (MASS COMMUNICATION & JOURNALISM),MASS COMMUNICATION & JOURNALISM,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (PUNJABI),PUNJABI,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (MARATHI),MARATHI,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (BENGALI),BENGALI,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (MASS COMMUNICATION),MASS COMMUNICATION,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (SOCIAL WORK),SOCIAL WORK,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (DRAWING AND PAINTING),DRAWING AND PAINTING,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (RURAL DEVELOPMENT),RURAL DEVELOPMENT,Arts,4,3,50,1,21
+MASTER OF ARTS [M.A] (YOGA),YOGA,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ANTHROPOLOGY),ANTHROPOLOGY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ARABIC),ARABIC,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (MALAYALAM),MALAYALAM,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (HINDI LITERATURE),HINDI LITERATURE,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (GUJARATI),GUJARATI,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (LINGUISTICS),LINGUISTICS,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ASSAMESE),ASSAMESE,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ENGLISH LANGUAGE AND LITERATURE),ENGLISH LANGUAGE AND LITERATURE,Arts,4,3,50,1,21
+MASTER OF FINE ARTS [MFA] (PAINTING),PAINTING,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (STATISTICS),STATISTICS,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (WOMEN STUDIES),WOMEN STUDIES,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (HUMAN RESOURCE MANAGEMENT),HUMAN RESOURCE MANAGEMENT,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (APPLIED PSYCHOLOGY),APPLIED PSYCHOLOGY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (FRENCH),FRENCH,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (PERSIAN),PERSIAN,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ANCIENT INDIAN HISTORY AND ARCHAEOLOGY),ANCIENT INDIAN HISTORY AND ARCHAEOLOGY,Arts,4,3,50,1,21
+MASTER OF ARTS [M.A.] (JOURNALISM),JOURNALISM,Arts,4,3,50,1,21
+MASTER OF ARTS [M.A.] (DANCE),DANCE,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ANCIENT HISTORY),ANCIENT HISTORY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (CLINICAL PSYCHOLOGY),CLINICAL PSYCHOLOGY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (DEVELOPMENT STUDIES),DEVELOPMENT STUDIES,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (INTERNATIONAL RELATIONS),INTERNATIONAL RELATIONS,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (POLITICS),POLITICS,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ARCHAEOLOGY),ARCHAEOLOGY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ADVERTISING & PUBLIC RELATIONS),ADVERTISING & PUBLIC RELATIONS,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (COMPARATIVE LITERATURE),COMPARATIVE LITERATURE,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (TOURISM MANAGEMENT),TOURISM MANAGEMENT,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (COUNSELLING PSYCHOLOGY),COUNSELLING PSYCHOLOGY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ENVIRONMENTAL STUDIES),ENVIRONMENTAL STUDIES,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (GENDER STUDIES),GENDER STUDIES,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (RELIGIOUS STUDIES),RELIGIOUS STUDIES,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (POLICE ADMINISTRATION),POLICE ADMINISTRATION,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (INTERNATIONAL STUDIES),INTERNATIONAL STUDIES,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ASTROLOGY),ASTROLOGY,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (FASHION DESIGN),FASHION DESIGN,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (CHINESE),CHINESE,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (GRAPHIC DESIGN),GRAPHIC DESIGN,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (DISASTER MANAGEMENT),DISASTER MANAGEMENT,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (COMMUNICATION),COMMUNICATION,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (FILM STUDIES),FILM STUDIES,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (SPANISH),SPANISH,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (JAPANESE),JAPANESE,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (TRANSLATION STUDIES),TRANSLATION STUDIES,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (INTERIOR DESIGN),INTERIOR DESIGN,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (APPLIED LINGUISTICS),APPLIED LINGUISTICS,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (BROADCAST JOURNALISM),BROADCAST JOURNALISM,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (CULTURAL STUDIES),CULTURAL STUDIES,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (QUANTITATIVE ECONOMICS),QUANTITATIVE ECONOMICS,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (CULTURE AND MEDIA STUDIES),CULTURE AND MEDIA STUDIES,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (ETHICS),ETHICS,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (CAREER COUNSELLING),CAREER COUNSELLING,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (COMPARATIVE INDIAN LITERATURE),COMPARATIVE INDIAN LITERATURE,Arts,4,3,50,1,21
+MASTER OF ARTS [MA] (GEOLOGY),GEOLOGY,Arts,4,3,50,1,21
+MASTER OF LABOUR STUDIES,LABOUR STUDIES,Arts,4,3,50,1,21
+M.A. (PUBLIC POLICY),PUBLIC POLICY,Arts,4,3,50,1,21
+MASTER OF VISUAL ARTS [MVA],VISUAL ARTS,Arts,4,3,50,1,21
+MASTER OF PERFORMING ARTS [MPA],PERFORMING ARTS,Arts,4,3,50,1,21
+MASTER OF DIVINITY [M.DIV],DIVINITY,Arts,4,3,50,1,21
+MASTER OF THEOLOGY [M.TH],THEOLOGY,Arts,4,3,50,1,21
+MASTER OF LIBRARY AND INFORMATION SCIENCE [M.LIB.I.SC],LIBRARY AND INFORMATION SCIENCE,Arts,4,3,50,1,21
+MASTER OF FINE ARTS [MFA],,Arts,4,3,50,1,21
+MASTER OF FINE ARTS [MFA] (PAINTING),PAINTING,Arts,4,3,50,1,21
+MASTER OF FINE ARTS [MFA] (APPLIED ARTS),APPLIED ARTS,Arts,4,3,50,1,21
+MASTER OF FINE ARTS [MFA] (CERAMICS),CERAMICS,Arts,4,3,50,1,21
+MASTER IN SOCIAL WORK [MSW],,Arts,4,3,50,1,21
+POST GRADUATE DIPLOMA IN SOCIAL WORK [PGDSW],SOCIAL WORK,Arts,4,3,50,1,21
+POST GRADUATE DIPLOMA IN THE TEACHING OF ENGLISH [PGDTE],TEACHING OF ENGLISH,Arts,4,3,50,1,21
+POST GRADUATE DIPLOMA IN EARLY CHILDHOOD- EDUCATION AND DEVELOPMENT,CHILDHOOD EDUCATION AND DEVELOPMENT,Arts,4,3,50,1,21
+POST GRADUATE DIPLOMA IN PUBLIC ADMINISTRATION,PUBLIC ADMINISTRATION,Arts,4,3,50,1,21
+POST GRADUATE DIPLOMA COURSE IN COUNSELLING,COUNSELLING,Arts,4,3,50,1,21
+POST GRADUATE DIPLOMA IN PUBLIC RELATIONS,PUBLIC RELATIONS,Arts,4,3,50,1,21
+POST GRADUATE DIPLOMA IN GUIDANCE & COUNSELLING,GUIDANCE AND COUNSELLING,Arts,4,3,50,1,21
+MASTER OF SCIENCE [M.SC] (AVIATION),AVIATION,AVIATION,5,3,50,1,21
+MASTER OF COMMERCE [M.COM] (FINANCE),FINANCE,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (COMPUTER APPLICATIONS),COMPUTER APPLICATIONS,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (ACCOUNTANCY),ACCOUNTANCY,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (ACCOUNTING AND FINANCE),ACCOUNTING AND FINANCE,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (MARKETING),MARKETING,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (BANKING AND FINANCE),BANKING AND FINANCE,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (BUSINESS ADMINISTRATION),BUSINESS ADMINISTRATION,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (BUSINESS MANAGEMENT),BUSINESS MANAGEMENT,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (FINANCIAL MANAGEMENT),FINANCIAL MANAGEMENT,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (E-COMMERCE),E-COMMERCE,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (TAXATION),TAXATION,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (BANKING),BANKING,COMMERCE,6,3,50,1,21
+MASTER OF FINANCE AND CONTROL [MFC],FINANCE AND CONTROL,COMMERCE,6,3,50,1,21
+POST GRADUATE DIPLOMA IN ACCOUNTANCY,ACCOUNTANCY,COMMERCE,6,3,50,1,21
+MASTER OF BUSINESS ECONOMICS [MBE],BUSINESS ECONOMICS,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (FINANCE & CONTROLS),FINANCE & CONTROLS,COMMERCE,6,3,50,1,21
+POST GRADUATE DIPLOMA IN BANK MANAGEMENT [PGDBM],BANK MANAGEMENT,COMMERCE,6,3,50,1,21
+POST GRADUATE DIPLOMA IN BANKING,BANKING,COMMERCE,6,3,50,1,21
+POST GRADUATE DIPLOMA IN STATISTICS,STATISTICS,COMMERCE,6,3,50,1,21
+MASTER OF COMMERCE [M.COM] (STATISTICS),STATISTICS,COMMERCE,6,3,50,1,21
+POST GRADUATE DIPLOMA IN ACCOUNTING SOFTWARE [PGDAS],ACCOUNTING SOFTWARE,COMMERCE,6,3,50,1,21
+MASTER OF COMPUTER APPLICATIONS [M.C.A],COMPUTER APPLICATIONS,COMPUTER APPLICATIONS,7,3,50,1,21
+POST GRADUATE DIPLOMA IN COMPUTER APPLICATIONS [PGDCA],COMPUTER APPLICATIONS,COMPUTER APPLICATIONS,7,3,50,1,21
+POST GRADUATE DIPLOMA IN DATA SCIENCE,DATA SCIENCE,COMPUTER APPLICATIONS,7,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS],DENTAL,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (CONSERVATIVE DENTISTRY & ENDODONTICS),CONSERVATIVE DENTISTRY AND ENDODONTICS,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (ORAL & MAXILLOFACIAL SURGERY),ORAL AND MAXILLOFACIAL SURGERY,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (ORAL MEDICINE AND RADIOLOGY),ORAL MEDICINE AND RADIOLOGY,DENTAL,8,3,50,1,21
+"MASTER OF DENTAL SURGERY [MDS] (PROSTHODONTICS, CROWN & BRIDGE)","PROSTHODONTICS, CROWN & BRIDGE",DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (ORTHODONTICS AND DENTOFACIAL ORTHOPAEDICS),ORTHODONTICS AND DENTOFACIAL ORTHOPAEDICS,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (PERIODONTICS),PERIODONTICS,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (PEDODONTICS & PREVENTIVE DENTISTRY),PEDODONTICS & PREVENTIVE DENTISTRY,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (ORAL PATHOLOGY AND MICROBIOLOGY),ORAL PATHOLOGY AND MICROBIOLOGY,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (PERIODONTOLOGY),PERIODONTOLOGY,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (PROSTHODONTICS),PROSTHODONTICS,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (ORTHODONTICS),ORTHODONTICS,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (PUBLIC HEALTH DENTISTRY),PUBLIC HEALTH DENTISTRY,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (CONSERVATIVE DENTISTRY),CONSERVATIVE DENTISTRY,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (ORAL PATHOLOGY),ORAL PATHOLOGY,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (PEDODONTICS),PEDODONTICS,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (ORAL AND MAXILLOFACIAL PATHOLOGY),ORAL AND MAXILLOFACIAL PATHOLOGY,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (ORAL SURGERY),ORAL SURGERY,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (COMMUNITY DENTISTRY),COMMUNITY DENTISTRY,DENTAL,8,3,50,1,21
+MASTER OF DENTAL SURGERY [MDS] (PEDIATRIC DENTISTRY),PEDIATRIC DENTISTRY,DENTAL,8,3,50,1,21
+MASTER OF DESIGN [M.DES],DESIGN,DESIGN,9,3,50,1,21
+POST GRADUATE DIPLOMA IN INTERIOR DESIGNING,INTERIOR DESIGNING,DESIGN,9,3,50,1,21
+POST GRADUATE DIPLOMA IN FASHION DESIGNING,FASHION DESIGNING,DESIGN,9,3,50,1,21
+MASTER OF FASHION MANAGEMENT [MFM],FASHION MANAGEMENT,DESIGN,9,3,50,1,21
+MASTER OF FASHION TECHNOLOGY [M.F.TECH],FASHION TECHNOLOGY,DESIGN,9,3,50,1,21
+MASTER OF TEXTILES [M.TEXT],TEXTILES,DESIGN,9,3,50,1,21
+MASTER OF EDUCATION [M.ED],EDUCATION,EDUCATION,10,3,50,1,21
+MASTER OF PHYSICAL EDUCATION [M.P.ED],PHYSICAL EDUCATION,EDUCATION,10,3,50,1,21
+MASTER OF EDUCATION [M.ED] (ENGLISH),EDUCATION (ENGLISH),EDUCATION,10,3,50,1,21
+MASTER OF EDUCATION [M.ED] (SPECIAL EDUCATION),EDUCATION (SPECIAL EDUCATION),EDUCATION,10,3,50,1,21
+MASTER OF HOTEL MANAGEMENT [MHM],HOTEL MANAGEMENT,HOTEL MANAGEMENT,11,3,50,1,21
+POST GRADUATE DIPLOMA IN HOTEL MANAGEMENT,HOTEL MANAGEMENT,HOTEL MANAGEMENT,11,3,50,1,21
+MASTER IN TOURISM AND HOTEL MANAGEMENT [MTHM],HOTEL MANAGEMENT,HOTEL MANAGEMENT,11,3,50,1,21
+MASTER OF SCIENCE [M.SC.] (TOURISM AND HOSPITALITY MANAGEMENT),TOURISM AND HOSPITALITY MANAGEMENT,HOTEL MANAGEMENT,11,3,50,1,21
+MASTER OF LAWS [L.L.M.],LAW,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (CRIMINAL LAW),CRIMINAL LAW,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (INTELLECTUAL PROPERTY RIGHTS),INTELLECTUAL PROPERTY RIGHTS,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (CONSTITUTIONAL LAW),CONSTITUTIONAL LAW,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (CORPORATE LAW),CORPORATE LAW,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (HUMAN RIGHTS),HUMAN RIGHTS,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (BUSINESS LAW),BUSINESS LAW,LAW,12,3,50,1,21
+POST GRADUATE DIPLOMA IN CYBER LAW,CYBER LAW,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (INTERNATIONAL LAW),INTERNATIONAL LAW,LAW,12,3,50,1,21
+POST GRADUATE DIPLOMA IN INTELLECTUAL PROPERTY RIGHTS,INTELLECTUAL PROPERTY RIGHTS,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (CORPORATE AND COMMERCIAL LAW),CORPORATE AND COMMERCIAL LAW,LAW,12,3,50,1,21
+POST GRADUATE DIPLOMA IN LABOUR LAWS [PGDLL],LABOUR LAWS,LAW,12,3,50,1,21
+POST GRADUATE DIPLOMA IN HUMAN RIGHTS,HUMAN RIGHTS,LAW,12,3,50,1,21
+DIPLOMA IN LABOUR LAW,LABOUR LAWS,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (LABOUR LAWS),LABOUR LAWS,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (TAXATION LAW),TAXATION LAW,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (ENVIRONMENTAL LAW),ENVIRONMENTAL LAW,LAW,12,3,50,1,21
+POST GRADUATE DIPLOMA IN HUMAN RIGHTS LAW [PGDHRL],HUMAN RIGHTS,LAW,12,3,50,1,21
+MASTER OF LAWS [L.L.M.] (FAMILY LAW),FAMILY LAW,LAW,12,3,50,1,21
+POST GRADUATE DIPLOMA IN CORPORATE LAW [PGDCL],CORPORATE LAW,LAW,12,3,50,1,21
+POST GRADUATE DIPLOMA IN LAW,LAW,LAW,12,3,50,1,21
+MASTER OF LAWS [LLM] (MARITIME LAW),MARITIME LAW,LAW,12,3,50,1,21
+POST GRADUATE DIPLOMA IN BUSINESS LAW [PGDBL],BUSINESS LAW,LAW,12,3,50,1,21
+MASTER OF LAW [L.L.M.] IN INTELLECTUAL PROPERTY AND TRADE LAW,INTELLECTUAL PROPERTY AND TRADE LAW,LAW,12,3,50,1,21
+POST GRADUATE DIPLOMA IN CRIMINAL JUSTICE [PGDCJ],CRIMINAL JUSTICE,LAW,12,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (COMPUTER SCIENCE AND ENGINEERING),COMPUTER SCIENCE AND ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (STRUCTURAL ENGINEERING),STRUCTURAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ELECTRONICS AND COMMUNICATION ENGINEERING),ELECTRONICS AND COMMUNICATION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (COMPUTER SCIENCE AND ENGINEERING),COMPUTER SCIENCE AND ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (MECHANICAL ENGINEERING),MECHANICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (VLSI DESIGN),VLSI DESIGN,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (THERMAL ENGINEERING),THERMAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (CIVIL ENGINEERING),CIVIL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (POWER SYSTEM ENGINEERING),POWER SYSTEM ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (VLSI DESIGN & EMBEDDED SYSTEM),VLSI DESIGN & EMBEDDED SYSTEM,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (POWER ELECTRONICS),POWER ELECTRONICS,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (STRUCTURAL ENGINEERING),STRUCTURAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (INFORMATION TECHNOLOGY),INFORMATION TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (CAD/ CAM),CAD/ CAM,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ELECTRICAL ENGINEERING),ELECTRICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (COMPUTER SCIENCE),COMPUTER SCIENCE,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH.] (EMBEDDED SYSTEMS),EMBEDDED SYSTEMS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (SOFTWARE ENGINEERING),SOFTWARE ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ENVIRONMENTAL ENGINEERING),ENVIRONMENTAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (POWER ELECTRONICS AND DRIVES),POWER ELECTRONICS AND DRIVES,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (APPLIED ELECTRONICS),APPLIED ELECTRONICS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (BIOTECHNOLOGY),BIOTECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (PRODUCTION ENGINEERING),PRODUCTION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (DIGITAL COMMUNICATION),DIGITAL COMMUNICATION,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (POWER ELECTRONICS AND DRIVES),POWER ELECTRONICS AND DRIVES,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (CHEMICAL ENGINEERING),CHEMICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (TRANSPORTATION ENGINEERING),TRANSPORTATION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (MACHINE DESIGN),MACHINE DESIGN,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (CAD/CAM),CAD/CAM,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (VLSI DESIGN),VLSI DESIGN,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (COMPUTER ENGINEERING),COMPUTER ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (GEOTECHNICAL ENGINEERING),GEOTECHNICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (COMPUTER ENGINEERING),COMPUTER ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (COMMUNICATION SYSTEMS),COMMUNICATION SYSTEMS,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (MANUFACTURING ENGINEERING),MANUFACTURING ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (THERMAL ENGINEERING),THERMAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (POWER SYSTEM ENGINEERING),POWER SYSTEM ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (MECHANICAL ENGINEERING),MECHANICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ELECTRICAL POWER SYSTEM),ELECTRICAL POWER SYSTEM,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (DIGITAL ELECTRONICS & COMMUNICATION SYSTEMS),DIGITAL ELECTRONICS & COMMUNICATION SYSTEMS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ELECTRICAL AND ELECTRONICS ENGINEERING),ELECTRICAL AND ELECTRONICS ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (ENGINEERING DESIGN),ENGINEERING DESIGN,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (COMMUNICATION SYSTEMS),COMMUNICATION SYSTEMS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (CYBER SECURITY),CYBER SECURITY,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (CONSTRUCTION ENGINEERING AND MANAGEMENT),CONSTRUCTION ENGINEERING AND MANAGEMENT,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ELECTRONICS & TELECOMMUNICATIONS ENGINEERING),ELECTRONICS & TELECOMMUNICATIONS ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (CONSTRUCTION ENGINEERING AND MANAGEMENT),CONSTRUCTION ENGINEERING AND MANAGEMENT,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (NANOTECHNOLOGY),NANOTECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (ELECTRONICS & TELECOMMUNICATION ENGINEERING),ELECTRONICS & TELECOMMUNICATION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (SIGNAL PROCESSING),SIGNAL PROCESSING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (COMMUNICATION ENGINEERING),COMMUNICATION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (FOOD TECHNOLOGY),FOOD TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (DESIGN ENGINEERING),DESIGN ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (RENEWABLE ENERGY),RENEWABLE ENERGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (POWER SYSTEMS AND POWER ELECTRONICS),POWER SYSTEMS AND POWER ELECTRONICS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ARTIFICIAL INTELLIGENCE),ARTIFICIAL INTELLIGENCE,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (CIVIL ENGINEERING),CIVIL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (COMPUTER NETWORK ENGINEERING),COMPUTER NETWORK ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (ELECTRICAL ENGINEERING),ELECTRICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (ELECTRONICS & COMMUNICATION),ELECTRONICS & COMMUNICATION,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (EMBEDDED SYSTEMS),EMBEDDED SYSTEMS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (CONSTRUCTION TECHNOLOGY),CONSTRUCTION TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (INFORMATION TECHNOLOGY),INFORMATION TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (EMBEDDED SYSTEM TECHNOLOGIES),EMBEDDED SYSTEM TECHNOLOGIES,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (WATER RESOURCES ENGINEERING),WATER RESOURCES ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (DIGITAL ELECTRONICS & COMMUNICATION),DIGITAL ELECTRONICS & COMMUNICATION,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (AUTOMOBILE ENGINEERING),AUTOMOBILE ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH.] (MECHATRONICS),MECHATRONICS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ELECTRONICS ENGINEERING),ELECTRONICS ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (ENVIRONMENTAL ENGINEERING),ENVIRONMENTAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (MANUFACTURING ENGINEERING),MANUFACTURING ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (INSTRUMENTATION AND CONTROL ENGINEERING),INSTRUMENTATION AND CONTROL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (SOFTWARE ENGINEERING),SOFTWARE ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (MATERIAL SCIENCE AND ENGINEERING),MATERIAL SCIENCE AND ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ELECTRICAL POWER ENGINEERING),ELECTRICAL POWER ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (PRODUCTION & INDUSTRIAL ENGINEERING),PRODUCTION & INDUSTRIAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (INDUSTRIAL ENGINEERING & MANAGEMENT),INDUSTRIAL ENGINEERING & MANAGEMENT,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (INFORMATION SECURITY),INFORMATION SECURITY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (BIOMEDICAL ENGINEERING),BIOMEDICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (EMBEDDED SYSTEM AND VLSI DESIGN),EMBEDDED SYSTEM AND VLSI DESIGN,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (INDUSTRIAL ENGINEERING),INDUSTRIAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (HEAT POWER),HEAT POWER,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (THERMAL POWER ENGINEERING),THERMAL POWER ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ENERGY SYSTEM ENGINEERING),ENERGY SYSTEM ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH.],,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (COMPUTER INTEGRATED MANUFACTURING),COMPUTER INTEGRATED MANUFACTURING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (AGRICULTURAL ENGINEERING),AGRICULTURAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (CONTROL SYSTEMS),CONTROL SYSTEMS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (NANO SCIENCE AND TECHNOLOGY),NANO SCIENCE AND TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (COMPUTER SCIENCE & TECHNOLOGY),COMPUTER SCIENCE & TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (VLSI TECHNOLOGY),VLSI TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH.] (ADVANCED MANUFACTURING),ADVANCED MANUFACTURING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (TEXTILE TECHNOLOGY),TEXTILE TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (DIGITAL SYSTEMS & COMPUTER ELECTRONICS),DIGITAL SYSTEMS & COMPUTER ELECTRONICS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (BIOINFORMATICS),BIOINFORMATICS,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (CHEMICAL ENGINEERING),CHEMICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (DESIGN ENGINEERING),DESIGN ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (MICROELECTRONICS AND VLSI DESIGN),MICROELECTRONICS AND VLSI DESIGN,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (DIGITAL COMMUNICATION AND NETWORKING),DIGITAL COMMUNICATION AND NETWORKING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (POWER ELECTRONICS),POWER ELECTRONICS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (COMPUTER NETWORK & INFORMATION SECURITY),COMPUTER NETWORK & INFORMATION SECURITY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ROBOTICS ENGINEERING),ROBOTICS ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (ENERGY ENGINEERING),ENERGY ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (PRODUCT DESIGN & MANUFACTURING),PRODUCT DESIGN & MANUFACTURING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (AEROSPACE ENGINEERING),AEROSPACE ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (ELECTRONICS ENGINEERING),ELECTRONICS ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (CONTROL AND INSTRUMENTATION ENGINEERING),CONTROL AND INSTRUMENTATION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (ELECTRICAL POWER SYSTEM),ELECTRICAL POWER SYSTEM,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (MACHINE DESIGN),MACHINE DESIGN,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (PETROLEUM ENGINEERING),PETROLEUM ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ELECTRONICS AND INSTRUMENTATION ENGINEERING),ELECTRONICS AND INSTRUMENTATION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (MANUFACTURING TECHNOLOGY),MANUFACTURING TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (GEOINFORMATICS),GEOINFORMATICS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (MINING ENGINEERING),MINING ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (WIRELESS COMMUNICATION TECHNOLOGY),WIRELESS COMMUNICATION TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (FOOD PROCESS ENGINEERING),FOOD PROCESS ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (SOIL WATER CONSERVATION ENGINEERING),SOIL WATER CONSERVATION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (DIGITAL COMMUNICATION & NETWORKING),DIGITAL COMMUNICATION & NETWORKING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (AUTOMOTIVE ENGINEERING),AUTOMOTIVE ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF SCIENCE [M.S] (CIVIL ENGINEERING),CIVIL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (COMMUNICATION ENGINEERING),COMMUNICATION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF ENGINEERING [ME] (HEAT POWER),HEAT POWER,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ENERGY ENGINEERING),ENERGY ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (DATA ANALYTICS),DATA ANALYTICS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (TELECOMMUNICATION ENGINEERING),TELECOMMUNICATION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (MANUFACTURING SCIENCE & ENGINEERING),MANUFACTURING SCIENCE & ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ELECTRICAL DEVICES & POWER SYSTEM ENGINEERING),ELECTRICAL DEVICES & POWER SYSTEM ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (APPLIED ELECTRONICS),APPLIED ELECTRONICS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (AERONAUTICAL ENGINEERING),AERONAUTICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (DIGITAL SYSTEM & SIGNAL PROCESSING),DIGITAL SYSTEM & SIGNAL PROCESSING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ENGINEERING DESIGN),ENGINEERING DESIGN,ENGINEERING,13,3,50,1,21
+MASTER OF SCIENCE (ELECTRONICS AND COMMUNICATION ENGINEERING),ELECTRONICS AND COMMUNICATION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (CLOUD COMPUTING),CLOUD COMPUTING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (BIOCHEMICAL ENGINEERING),BIOCHEMICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (AVIONICS),AVIONICS,ENGINEERING,13,3,50,1,21
+MASTER OF SCIENCE [M.S] (CHEMICAL ENGINEERING),CHEMICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF SCIENCE [M.S] (ELECTRICAL ENGINEERING),ELECTRICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (TOOL ENGINEERING),TOOL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH.] (INTELLIGENT SYSTEM),INTELLIGENT SYSTEM,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (PRODUCTION TECHNOLOGY),PRODUCTION TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (MARINE ENGINEERING),MARINE ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ENGINEERING PHYSICS),ENGINEERING PHYSICS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (LEATHER TECHNOLOGY),LEATHER TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (AEROSPACE PROPULSION),AEROSPACE PROPULSION,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (AERODYNAMICS),AERODYNAMICS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (PROCESS METALLURGY),PROCESS METALLURGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY MANAGEMENT [MTM],MANAGEMENT,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (POLYMER TECHNOLOGY),POLYMER TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (PHARMACEUTICAL TECHNOLOGY),PHARMACEUTICAL TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (APPLIED GEOLOGY),APPLIED GEOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (RUBBER TECHNOLOGY),RUBBER TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (NUCLEAR ENGINEERING),NUCLEAR ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF SCIENCE [M.S] (BIOMEDICAL ENGINEERING),BIOMEDICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (PIPELINE ENGINEERING),PIPELINE ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (EARTHQUAKE ENGINEERING),EARTHQUAKE ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (BIO PHARMACEUTICAL TECHNOLOGY),BIO PHARMACEUTICAL TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (FOOD CHAIN MANAGEMENT),FOOD CHAIN MANAGEMENT,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (PROCESS ENGINEERING),PROCESS ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (APPLIED MECHANICS),APPLIED MECHANICS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (WELDING TECHNOLOGY),WELDING TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (FLUIDS ENGINEERING),FLUIDS ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (FOOD & NUTRITION),FOOD & NUTRITION,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (FOOD BIOTECHNOLOGY),FOOD BIOTECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (RELIABILITY ENGINEERING),RELIABILITY ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (BIO MINERAL PROCESSING),BIO MINERAL PROCESSING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (OPTICAL ENGINEERING),OPTICAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (NEURAL NETWORKS),NEURAL NETWORKS,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (ALLOY TECHNOLOGY),ALLOY TECHNOLOGY,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (AIR ARMAMENT),AIR ARMAMENT,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (EXCAVATION ENGINEERING),EXCAVATION ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (MINERAL ENGINEERING),MINERAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (AQUA CULTURAL ENGINEERING),AQUA CULTURAL ENGINEERING,ENGINEERING,13,3,50,1,21
+MASTER OF TECHNOLOGY [M.TECH] (APPLIED GEOPHYSICS),APPLIED GEOPHYSICS,ENGINEERING,13,3,50,1,21
+MASTER OF JOURNALISM AND MASS COMMUNICATION [MJMC],JOURNALISM AND MASS COMMUNICATION,MASS COMMUNICATION,14,3,50,1,21
+MASTER OF ARTS [MA] (JOURNALISM & MASS COMMUNICATION),JOURNALISM & MASS COMMUNICATION,MASS COMMUNICATION,14,3,50,1,21
+POST GRADUATE DIPLOMA IN JOURNALISM AND MASS COMMUNICATION,JOURNALISM & MASS COMMUNICATION,MASS COMMUNICATION,14,3,50,1,21
+POST GRADUATE DIPLOMA IN JOURNALISM,JOURNALISM,MASS COMMUNICATION,14,3,50,1,21
+POST GRADUATE DIPLOMA IN MASS COMMUNICATION,MASS COMMUNICATION,MASS COMMUNICATION,14,3,50,1,21
+DIPLOMA IN JOURNALISM,JOURNALISM,MASS COMMUNICATION,14,3,50,1,21
+MASTER OF COMMUNICATION & JOURNALISM [MCJ],COMMUNICATION & JOURNALISM,MASS COMMUNICATION,14,3,50,1,21
+POST GRADUATE DIPLOMA BROADCAST JOURNALISM,BROADCAST JOURNALISM,MASS COMMUNICATION,14,3,50,1,21
+POST GRADUATE DIPLOMA IN ADVERTISING,ADVERTISING,MASS COMMUNICATION,14,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (PATHOLOGY),PATHOLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (MICROBIOLOGY),MICROBIOLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (PHARMACOLOGY),PHARMACOLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (PHYSIOLOGY),PHYSIOLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (GENERAL MEDICINE),GENERAL MEDICINE,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (GENERAL SURGERY),GENERAL SURGERY,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (ORTHOPAEDICS),ORTHOPAEDICS,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (PAEDIATRICS),PAEDIATRICS,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (COMMUNITY MEDICINE),COMMUNITY MEDICINE,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (ANATOMY),ANATOMY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (PSYCHIATRY),PSYCHIATRY,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (OBSTETRICS & GYNAECOLOGY),OBSTETRICS & GYNAECOLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (RADIODIAGNOSIS),RADIODIAGNOSIS,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (E.N.T.),E.N.T.,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (ANAESTHESIOLOGY),ANAESTHESIOLOGY,MEDICAL,15,3,50,1,21
+"DOCTORATE OF MEDICINE [MD] (DERMATOLOGY, VENEREOLOGY & LEPROLOGY)","DERMATOLOGY, VENEREOLOGY & LEPROLOGY",MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (OBSTETRICS & GYNAECOLOGY),OBSTETRICS & GYNAECOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (OPHTHALMOLOGY),OPHTHALMOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF PHYSIOTHERAPY [MPT],PHYSIOTHERAPY,MEDICAL,15,3,50,1,21
+MASTER OF PUBLIC HEALTH [MPH],PUBLIC HEALTH,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (DERMATOLOGY),DERMATOLOGY,MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN YOGA,YOGA,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (ANAESTHESIA),ANAESTHESIA,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (ANATOMY),ANATOMY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (RADIOTHERAPY),RADIOTHERAPY,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (UROLOGY),UROLOGY,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (NEURO SURGERY),NEURO SURGERY,MEDICAL,15,3,50,1,21
+DM [NEUROLOGY],NEUROLOGY,MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN OBSTETRICS & GYNAECOLOGY,OBSTETRICS & GYNAECOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF PHYSIOTHERAPY [MPT] (NEUROLOGY),NEUROLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (RADIOLOGY),RADIOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF PHYSIOTHERAPY [MPT] (ORTHOPAEDICS),ORTHOPAEDICS,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (TUBERCULOSIS & RESPIRATORY MEDICINE),TUBERCULOSIS & RESPIRATORY MEDICINE,MEDICAL,15,3,50,1,21
+MASTER OF PHYSIOTHERAPY [MPT] (SPORTS-PHYSIOTHERAPY),SPORTS-PHYSIOTHERAPY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (RESPIRATORY MEDICINE),RESPIRATORY MEDICINE,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (PEDIATRICS),PEDIATRICS,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (PLASTIC SURGERY),PLASTIC SURGERY,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MEDICAL BIOCHEMISTRY),MEDICAL BIOCHEMISTRY,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MEDICAL MICROBIOLOGY),MEDICAL MICROBIOLOGY,MEDICAL,15,3,50,1,21
+DM [GASTROENTEROLOGY],GASTROENTEROLOGY,MEDICAL,15,3,50,1,21
+DM [NEPHROLOGY],NEPHROLOGY,MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN ORTHOPAEDICS,ORTHOPAEDICS,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (OTORHINOLARYNGOLOGY),OTORHINOLARYNGOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MEDICAL PHYSIOLOGY),MEDICAL PHYSIOLOGY,MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN CHILD HEALTH,CHILD HEALTH,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MEDICAL LAB TECHNOLOGY),MEDICAL LAB TECHNOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC.] (MEDICAL ANATOMY),MEDICAL ANATOMY,MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN OPHTHALMOLOGY,OPHTHALMOLOGY,MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN MEDICAL LABORATORY TECHNOLOGY,MEDICAL LABORATORY TECHNOLOGY,MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN CLINICAL PATHOLOGY,CLINICAL PATHOLOGY,MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN YOGA THERAPY,YOGA THERAPY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (KAYACHIKITSA),KAYACHIKITSA,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (PREVENTIVE AND SOCIAL MEDICINE),PREVENTIVE AND SOCIAL MEDICINE,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (PAEDIATRIC SURGERY),PAEDIATRIC SURGERY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (MEDICINE),MEDICINE,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (OPHTHALMOLOGY),OPHTHALMOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (CARDIO-VASCULAR THORACIC SURGERY),CARDIO-VASCULAR THORACIC SURGERY,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MEDICAL PHARMACOLOGY),MEDICAL PHARMACOLOGY,MEDICAL,15,3,50,1,21
+DM [ENDOCRINOLOGY],ENDOCRINOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF PHYSIOTHERAPY [MPT] (PEDIATRICS),PEDIATRICS,MEDICAL,15,3,50,1,21
+"POST GRADUATE DIPLOMA IN DERMATOLOGY, VENEREOLOGY & LEPROSY","DERMATOLOGY, VENEREOLOGY & LEPROSY",MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN PUBLIC HEALTH,PUBLIC HEALTH,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (HOMOEOPATHIC) (REPERTORY),HOMOEOPATHIC,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (AYURVEDA),AYURVEDA,MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN ANAESTHESIA,ANAESTHESIA,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (GENERAL SURGERY),GENERAL SURGERY,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ANATOMY),ANATOMY,MEDICAL,15,3,50,1,21
+MASTER OF PHYSIOTHERAPY [MPT] (CARDIORESPIRATORY),CARDIORESPIRATORY,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (SURGICAL ONCOLOGY),SURGICAL ONCOLOGY,MEDICAL,15,3,50,1,21
+POSTGRADUATE DIPLOMA IN MEDICAL RADIO DIAGNOSIS,RADIO DIAGNOSIS,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD],MEDICINE,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (OPTOMETRY),OPTOMETRY,MEDICAL,15,3,50,1,21
+DM [MEDICAL ONCOLOGY],MEDICAL ONCOLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (AYURVEDA - PANCHAKARMA),AYURVEDA - PANCHAKARMA,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (ORTHOPAEDICS),ORTHOPAEDICS,MEDICAL,15,3,50,1,21
+POSTGRADUATE DIPLOMA IN OTORHINOLARYNGOLOGY,OTORHINOLARYNGOLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (HOMOEOPATHIC) (MATERIA MEDICA),HOMOEOPATHIC,MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN T.B. & CHEST,T.B. & CHEST,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [MS] (OTORHINOLARYNGOLOGY),OTORHINOLARYNGOLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (DRAVYA GUNA),DRAVYA GUNA,MEDICAL,15,3,50,1,21
+DM [NEONATOLOGY],NEONATOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (CARDIOTHORACIC SURGERY),CARDIOTHORACIC SURGERY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (FAMILY MEDICINE),FAMILY MEDICINE,MEDICAL,15,3,50,1,21
+POST GRADUATE DIPLOMA IN RADIO-DIAGNOSIS,RADIO-DIAGNOSIS,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (ANAESTHESIOLOGY),ANAESTHESIOLOGY,MEDICAL,15,3,50,1,21
+MASTER IN AUDIOLOGY AND SPEECH- LANGUAGE PATHOLOGY [MASLP],AUDIOLOGY AND SPEECH- LANGUAGE PATHOLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (RASA SHASTRA),RASA SHASTRA,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS],SURGERY,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (AYURVEDA),AYURVEDA,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (EPIDEMIOLOGY),EPIDEMIOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (GASTROENTEROLOGY SURGERY),GASTROENTEROLOGY SURGERY,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (AUDIOLOGY),AUDIOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [M.S.] (PHYSIOLOGY),PHYSIOLOGY,MEDICAL,15,3,50,1,21
+DIPLOMATE NATIONAL BOARD [DNB],MEDICAL,MEDICAL,15,3,50,1,21
+MASTER IN MEDICAL LABORATORY TECHNOLOGY [MMLT],MEDICAL LABORATORY TECHNOLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (VENEREOLOGY),VENEREOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [M.S.] (PHARMACOLOGY),PHARMACOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [M.S.] (PAEDIATRICS),PAEDIATRICS,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (RADIO DIAGNOSIS),RADIO DIAGNOSIS,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (MICROBIOLOGY),MICROBIOLOGY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (ACCIDENT & EMERGENCY MEDICINE),ACCIDENT & EMERGENCY MEDICINE,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (SPORTS MEDICINE),SPORTS MEDICINE,MEDICAL,15,3,50,1,21
+DM [HEPATOLOGY],HEPATOLOGY,MEDICAL,15,3,50,1,21
+MASTER IN OCCUPATIONAL THERAPY [MOT] (MUSCULOSKELETAL),MUSCULOSKELETAL,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (OTOLARYNGOLOGY),OTOLARYNGOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (PSYCHIATRY),PSYCHIATRY,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ANESTHESIA),ANESTHESIA,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (OCCUPATIONAL THERAPY),OCCUPATIONAL THERAPY,MEDICAL,15,3,50,1,21
+FELLOWSHIP IN NEUROLOGY,NEUROLOGY,MEDICAL,15,3,50,1,21
+DIPLOMATE NATIONAL BOARD [DNB] (CARDIOLOGY),CARDIOLOGY,MEDICAL,15,3,50,1,21
+MASTER IN OCCUPATIONAL THERAPY,OCCUPATIONAL THERAPY,MEDICAL,15,3,50,1,21
+MASTER IN OCCUPATIONAL THERAPY [MOT] (ORTHOPAEDICS),ORTHOPAEDICS,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (BALROG),BALROG,MEDICAL,15,3,50,1,21
+MASTER IN OCCUPATIONAL THERAPY [MOT] (NEUROSCIENCES),NEUROSCIENCES,MEDICAL,15,3,50,1,21
+MASTER IN OCCUPATIONAL THERAPY [MOT] (CARDIO-RESPIRATORY CONDITION),CARDIO-RESPIRATORY CONDITION,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ORTHOPEDICS),ORTHOPEDICS,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (PLASTIC SURGERY),PLASTIC SURGERY,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MEDICAL RADIO IMAGING),MEDICAL RADIO IMAGING,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (ACUPUNCTURE),ACUPUNCTURE,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (PEDIATRIC SURGERY),PEDIATRIC SURGERY,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (NEUROSURGERY),NEUROSURGERY,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (CARDIOTHORACIC SURGERY),CARDIOTHORACIC SURGERY,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (CARDIAC SURGERY),CARDIAC SURGERY,MEDICAL,15,3,50,1,21
+DOCTORATE OF MEDICINE [MD] (CLINICAL PHARMACOLOGY),CLINICAL PHARMACOLOGY,MEDICAL,15,3,50,1,21
+MASTER OF SURGERY [MS] (UROLOGY),UROLOGY,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (GENERAL SURGERY),GENERAL SURGERY,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (E.N.T.),E.N.T.,MEDICAL,15,3,50,1,21
+MASTER OF CHIRURGIAE [M.CH] (ANATOMY),ANATOMY,MEDICAL,15,3,50,1,21
+MASTER OF SCIENCE [M.SC] (NURSING),NURSING,PARAMEDICAL COURSES,16,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MEDICAL SURGICAL NURSING),MEDICAL SURGICAL NURSING,PARAMEDICAL COURSES,16,3,50,1,21
+MASTER OF SCIENCE [M.SC] (COMMUNITY HEALTH NURSING),COMMUNITY HEALTH NURSING,PARAMEDICAL COURSES,16,3,50,1,21
+MASTER OF SCIENCE [M.SC] (OBSTETRICS & GYNECOLOGY NURSING),OBSTETRICS & GYNECOLOGY NURSING,PARAMEDICAL COURSES,16,3,50,1,21
+MASTER OF SCIENCE [M.SC] (CHILD HEALTH NURSING),CHILD HEALTH NURSING,PARAMEDICAL COURSES,16,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MENTAL HEALTH NURSING),MENTAL HEALTH NURSING,PARAMEDICAL COURSES,16,3,50,1,21
+MASTER OF SCIENCE [M.SC] (PSYCHIATRIC NURSING),PSYCHIATRIC NURSING,PARAMEDICAL COURSES,16,3,50,1,21
+MASTER OF SCIENCE [M.SC] (PAEDIATRIC NURSING),PAEDIATRIC NURSING,PARAMEDICAL COURSES,16,3,50,1,21
+MASTER OF OPTOMETRY [M.OPTOM],OPTOMETRY,PARAMEDICAL COURSES,16,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (PHARMACEUTICS),PHARMACEUTICS,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (PHARMACOLOGY),PHARMACOLOGY,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (PHARMACEUTICAL CHEMISTRY),PHARMACEUTICAL CHEMISTRY,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (PHARMACEUTICAL ANALYSIS),PHARMACEUTICAL ANALYSIS,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM],PHARMACY,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (QUALITY ASSURANCE),QUALITY ASSURANCE,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (PHARMACOGNOSY),PHARMACOGNOSY,PHARMACY,17,3,50,1,21
+PHARM.D (POST BACCALAUREATE),POST BACCALAUREATE,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (PHARMACEUTICAL ANALYSIS AND QUALITY ASSURANCE),PHARMACEUTICAL ANALYSIS AND QUALITY ASSURANCE,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (PHARMACY PRACTICE),PHARMACY PRACTICE,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (INDUSTRIAL PHARMACY),INDUSTRIAL PHARMACY,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (PHARMACEUTICAL TECHNOLOGY),PHARMACEUTICAL TECHNOLOGY,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (DRUG REGULATORY AFFAIRS),DRUG REGULATORY AFFAIRS,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (PHARMACEUTICAL BIOTECHNOLOGY),PHARMACEUTICAL BIOTECHNOLOGY,PHARMACY,17,3,50,1,21
+MASTER OF PHARMACY [M.PHARM] (HOSPITAL & CLINICAL PHARMACY),HOSPITAL & CLINICAL PHARMACY,PHARMACY,17,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MATHEMATICS),MATHEMATICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (CHEMISTRY),CHEMISTRY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (PHYSICS),PHYSICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (COMPUTER SCIENCE),COMPUTER SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ZOOLOGY),ZOOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (BIOTECHNOLOGY),BIOTECHNOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (BOTANY),BOTANY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MICROBIOLOGY),MICROBIOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC.] (INFORMATION TECHNOLOGY),INFORMATION TECHNOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (BIOCHEMISTRY),BIOCHEMISTRY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ENVIRONMENTAL SCIENCE),ENVIRONMENTAL SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (STATISTICS),STATISTICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ORGANIC CHEMISTRY),ORGANIC CHEMISTRY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (GEOGRAPHY),GEOGRAPHY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ELECTRONICS),ELECTRONICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (BIOINFORMATICS),BIOINFORMATICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (GEOLOGY),GEOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC],SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (PSYCHOLOGY),PSYCHOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ANALYTICAL CHEMISTRY),ANALYTICAL CHEMISTRY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (HOME SCIENCE),HOME SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (FOOD SCIENCE AND NUTRITION),FOOD SCIENCE AND NUTRITION,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (APPLIED MATHEMATICS),APPLIED MATHEMATICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (NUTRITION AND DIETETICS),NUTRITION AND DIETETICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (FOOD TECHNOLOGY),FOOD TECHNOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (FORENSIC SCIENCES),FORENSIC SCIENCES,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (FASHION DESIGNING),FASHION DESIGNING,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ECONOMICS),ECONOMICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (CLINICAL RESEARCH),CLINICAL RESEARCH,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (FOOD NUTRITION),FOOD NUTRITION,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (INDUSTRIAL CHEMISTRY),INDUSTRIAL CHEMISTRY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (APPLIED CHEMISTRY),APPLIED CHEMISTRY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (PHARMACEUTICAL CHEMISTRY),PHARMACEUTICAL CHEMISTRY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ENTOMOLOGY),ENTOMOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (DATA SCIENCE),DATA SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (SOIL SCIENCE & AGRICULTURAL CHEMISTRY),SOIL SCIENCE & AGRICULTURAL CHEMISTRY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ANTHROPOLOGY),ANTHROPOLOGY,SCIENCE,18,3,50,1,21
+POST GRADUATE DIPLOMA IN BIOINFORMATICS [PGDBI],BIOINFORMATICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (INTERIOR DESIGN),INTERIOR DESIGN,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (INORGANIC CHEMISTRY),INORGANIC CHEMISTRY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (LIFE SCIENCE),LIFE SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (APPLIED MICROBIOLOGY),APPLIED MICROBIOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (SOIL SCIENCE),SOIL SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (APPLIED GEOLOGY),APPLIED GEOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (GEOINFORMATICS),GEOINFORMATICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (FOOD SCIENCE AND TECHNOLOGY),FOOD SCIENCE AND TECHNOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (APPLIED PHYSICS),APPLIED PHYSICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (PHYSIOLOGY),PHYSIOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (APPLIED PSYCHOLOGY),APPLIED PSYCHOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (PHYSICAL CHEMISTRY),PHYSICAL CHEMISTRY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (VISUAL COMMUNICATION),VISUAL COMMUNICATION,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (CYBER SECURITY),CYBER SECURITY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (COMPUTER APPLICATIONS),COMPUTER APPLICATIONS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (PHARMACOLOGY),PHARMACOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (HUMAN DEVELOPMENT),HUMAN DEVELOPMENT,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MOLECULAR BIOLOGY),MOLECULAR BIOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ELECTRONIC SCIENCE),ELECTRONIC SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (GENETICS),GENETICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (BIOMEDICAL SCIENCE),BIOMEDICAL SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (NANOTECHNOLOGY),NANOTECHNOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ELECTRONIC MEDIA),ELECTRONIC MEDIA,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (TEXTILE DESIGN),TEXTILE DESIGN,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.S] (RESEARCH),RESEARCH,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC.] (COMPUTER SCIENCE & TECHNOLOGY),COMPUTER SCIENCE & TECHNOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF FISHERIES SCIENCE [MFSC] (AQUACULTURE),AQUACULTURE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (APPLIED ELECTRONICS),APPLIED ELECTRONICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (HOSPITAL ADMINISTRATION),HOSPITAL ADMINISTRATION,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (FASHION TECHNOLOGY),FASHION TECHNOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF FISHERIES SCIENCE [MFSC],FISHERIES SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (BIOLOGY),BIOLOGY,SCIENCE,18,3,50,1,21
+POST GRADUATE DIPLOMA IN CLINICAL NUTRITION & DIETETICS,CLINICAL NUTRITION & DIETETICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (INSTRUMENTATION TECHNOLOGY),INSTRUMENTATION TECHNOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (DATA ANALYTICS),DATA ANALYTICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ANIMAL BIOTECHNOLOGY),ANIMAL BIOTECHNOLOGY,SCIENCE,18,3,50,1,21
+POST GRADUATE DIPLOMA IN FORENSIC SCIENCE,FORENSIC SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (BIOPHYSICS),BIOPHYSICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ACTUARIAL SCIENCE),ACTUARIAL SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ENVIRONMENTAL MANAGEMENT),ENVIRONMENTAL MANAGEMENT,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (GEOPHYSICS),GEOPHYSICS,SCIENCE,18,3,50,1,21
+MASTER OF STATISTICS [M.STAT.],STATISTICS,SCIENCE,18,3,50,1,21
+POST GRADUATE PROGRAM IN DATA SCIENCE,DATA SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (NEUROSCIENCE),NEUROSCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (EARTH SCIENCE),EARTH SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (OPERATIONAL RESEARCH),OPERATIONAL RESEARCH,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (BIOLOGICAL SCIENCES),BIOLOGICAL SCIENCES,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [MS],SCIENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ARTIFICIAL INTELLIGENCE),ARTIFICIAL INTELLIGENCE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (SOFTWARE ENGINEERING),SOFTWARE ENGINEERING,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MOLECULAR MEDICINE),MOLECULAR MEDICINE,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MEDICINAL CHEMISTRY),MEDICINAL CHEMISTRY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (OCEANOGRAPHY),OCEANOGRAPHY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (METEOROLOGY),METEOROLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (MASS COMMUNICATION),MASS COMMUNICATION,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (COUNSELLING),COUNSELLING,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (NUCLEAR PHYSICS),NUCLEAR PHYSICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (TOXICOLOGY),TOXICOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC.] (HOTEL & CATERING MANAGEMENT),HOTEL & CATERING MANAGEMENT,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [MS] (BIOTECHNOLOGY),BIOTECHNOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (APPLIED BIOLOGY),APPLIED BIOLOGY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ASTRONOMY),ASTRONOMY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (COMMUNICATION),COMMUNICATION,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (SUSTAINABLE DEVELOPMENT),SUSTAINABLE DEVELOPMENT,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (DIETETICS),DIETETICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (DEVELOPMENT STUDIES),DEVELOPMENT STUDIES,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (NGO MANAGEMENT),NGO MANAGEMENT,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (APPLIED ECONOMICS),APPLIED ECONOMICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (AUDIO SPEECH THERAPY),AUDIO SPEECH THERAPY,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (ASTROPHYSICS),ASTROPHYSICS,SCIENCE,18,3,50,1,21
+MASTER OF SCIENCE [M.SC] (FOREIGN TRADE MANAGEMENT),FOREIGN TRADE MANAGEMENT,SCIENCE,18,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (VETERINARY PARASITOLOGY),VETERINARY PARASITOLOGY,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (VETERINARY MICROBIOLOGY),VETERINARY MICROBIOLOGY,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (ANIMAL NUTRITION),ANIMAL NUTRITION,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (VETERINARY PATHOLOGY),VETERINARY PATHOLOGY,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (LIVESTOCK PRODUCTION & MANAGEMENT),LIVESTOCK PRODUCTION & MANAGEMENT,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (VETERINARY SURGERY AND RADIOLOGY),VETERINARY SURGERY AND RADIOLOGY,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (VETERINARY PHARMACOLOGY & TOXICOLOGY),VETERINARY PHARMACOLOGY & TOXICOLOGY,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (VETERINARY BIOCHEMISTRY),VETERINARY BIOCHEMISTRY,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (ANIMAL GENETICS AND BREEDING),ANIMAL GENETICS AND BREEDING,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (VETERINARY AND ANIMAL HUSBANDRY EXTENSION),VETERINARY AND ANIMAL HUSBANDRY EXTENSION,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (LIVESTOCK PRODUCTS TECHNOLOGY),LIVESTOCK PRODUCTS TECHNOLOGY,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] ((VETERINARY ANATOMY & HISTOLOGY),(VETERINARY ANATOMY & HISTOLOGY,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC] (VETERINARY MEDICINE),VETERINARY MEDICINE,VETERINARY,19,3,50,1,21
+MASTER OF VETERINARY SCIENCE [MVSC],VERERINARY,VETERINARY,19,3,50,1,21
+MASTER OF SCIENCE [M.SC] (VETERINARY PHARMACOLOGY & TOXICOLOGY),VETERINARY PHARMACOLOGY & TOXICOLOGY,VETERINARY,19,3,50,1,21
